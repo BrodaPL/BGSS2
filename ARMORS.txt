@@ -1,0 +1,80 @@
+ARMORS
+
+Light Armor
+	Standard: 1
+	Energy: 0
+	Biological: 0
+	Psi: 0
+	Fire: 0
+	
+	Require: STR 1
+	Modification 1: Fire +1 - Require skill 1, Nanite 4, Diffiulty 5
+	Modification 2: Energy +1 - Require skill 2, Nanite 6, Diffiulty 6
+
+
+Medium Armor
+	Standard: 2
+	Energy: 1
+	Biological: 0
+	Psi: 0
+	Fire: 0
+	Require: STR 2
+	
+	Modification 1: Fire +1 - Require skill 1, Nanite 4, Diffiulty 5
+	Modification 2: Energy +1 - Require skill 2, Nanite 6, Diffiulty 7
+	
+
+Heavy Armor
+	Standard: 3
+	Energy: 1
+	Biological: 0
+	Psi: 0
+	Fire: 1
+	Require: STR3
+	
+	Agility -1
+	
+	Modification 1: Energy +1, Fire +1 - Require skill 2, Nanite 6, Diffiulty 7
+	Modification 2: Standard +1 - Require skill 3, Nanite 10, Diffiulty 8
+
+	
+Power Armor
+	Standard: 2
+	Energy: 3
+	Biological: 0
+	Psi: 1
+	Fire: 2
+	Require: STR1
+	Capacity 8 energy
+	
+	Activation 1AP
+	When Active it uses 1 energy per turn.
+	When Inactive provides only 1 Standard and 1 Energy protection.
+	
+	Modification 1: Capacity +6 - Require skill 2, Nanite 6, Diffiulty 6
+	Modification 2: Standard +1, Energy +1, Psi +1 - Require skill 3, Nanite 10, Diffiulty 8
+	
+
+Hazard Suit
+	Standard: 0
+	Energy: 1
+	Biological: 10
+	Psi: 1
+	Fire: 2
+	Require: AGI 1
+	
+	Modification 1: Energy +1, Psi +1 - Require skill 1, Nanite 4, Diffiulty 5
+	Modification 2: Standard+1, Fire +1, Biological +2  - Require skill 2, Nanite 8, Diffiulty 7
+
+	
+Worm Skin
+	Standard: 2
+	Energy: 2
+	Biological: 2
+	Psi: 3
+	Fire: 1
+	Require: STR1, END 1
+	Research: Require skill 3, Common Chemicals, Rare Chemicals, time 8.
+	
+	Modification 1: Standard +1, Biological +2 - Require skill 2, Nanite 5, Diffiulty 6
+	Modification 2: Energy +1, Fire+1, Psi +1 - Require skill 3, Nanite 10, Diffiulty 8

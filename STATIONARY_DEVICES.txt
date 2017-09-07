@@ -1,0 +1,70 @@
+STATIONARY DEVICES
+
+Replicator
+Hacking: Require skill 1, Diffiulty 4, Nanite 2
+Hacking succes: All items in cost 1N less and 1N less for every 10N base cost and change avaiable items.
+
+Door lock
+Hacking: Require skill 2, Diffiulty 5, Nanite 1
+Hacking succes: Opens dors.
+
+Advanced Door lock
+Hacking: Require skill 3, Diffiulty 7, Nanite 2
+Hacking succes: Open dors.
+Hacking failure: Turn on alarm.
+
+Security Door lock
+Hacking: -
+Info: Can be opened only by Acces card.
+
+Secourity station
+Hacking: Require skill 1, Diffiulty 5, Nanite 3
+Hacking succes: Shut down alarm(if is active), security turrets and cameras for 12 turns. Decrease threat level by 2.
+Hacking failure: Turn on alarm.
+
+Advanced Secourity station
+Hacking: Require skill 3, Diffiulty 8, Nanite 4
+Hacking succes: Shut down alarm(if is active), security turrets and cameras for 12 turns. Decrease threat level by 3.
+Hacking failure: Turn on alarm.
+
+Secoure container
+Hacking: Require skill 1, Diffiulty 5, Nanite 1
+Hacking succes: Opens container.
+
+Advanced Secoure container
+Hacking: Require skill 3, Diffiulty 7, Nanite 2
+Hacking succes: Opens container.
+Hacking failure: Destroy container Causing 8 Standard damage, AOE 2.
+
+Power Cell Slot
+Hacking: -
+Info: Charged power cell can be inserted into it to complete some mission objective. Usage time 1 turn.
+
+Energy Recharging Station
+Hacking: -
+Info: Recharge all items owned by player. Usage time 1 turn.
+
+Surgical Unit
+Hacking: -
+Info: Can be actived by installing into it Surgical Key(installing Surgical Key takes 1 turn).
+When actived can restore full health with cost of 5N. Usage time 2 turns.
+
+Environment control panel
+Hacking: -
+Info: ToxinA can be inserted into it to complete some mission objective. Usage time 2 turn.
+
+Circuit Board Socket
+Hacking: -
+Info: Circuit Board can be inserted into it to complete some mission objective. Usage time 1 turn.
+
+Simulation Unit
+Hacking: -
+Info: Quantum Simulation Chip can be inserted into it to complete some mission objective. Usage time 1 turn.
+
+Transmitter
+Hacking: -
+Info: Some action can be done to complete some mission objective. Usage time 2 turn.
+
+Generator Controll
+Hacking: -
+Info: Can be actoved to complete some mission objective. Usage time 2 turn.

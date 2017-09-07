@@ -1,0 +1,854 @@
+WEAPONS_PASTE
+
+WEAPONS
+
+---------------------------------------
+
+Metal pipe
+	DMG 1
+	DMG Type Standard
+	Range 1
+	Reload ---
+	Capacity ---
+	Require: ---
+	Repeir: ---
+	Research: ---
+	
+	Fire modes:
+	Normal: 3AP.
+	Power smash: DMG +1, 4AP, accuracy -1
+	
+	Modification 1: ---
+	Modification 2: ---
+	
+Metal pipe
+Damage: 1 Standard
+Range: 1
+Reload: ---
+Capacity: ---
+Require: ---
+Repeir: ---
+
+Research: ---
+
+
+
+
+Fire modes:
+Normal: 3AP.
+Power smash: DMG +1, 4AP, accuracy -1
+
+
+
+Modification 1: ---
+
+
+Modification 2: ---
+
+
+
+---------------------------------------
+
+
+ 
+
+Wrench
+	DMG 2
+	DMG Type Standard
+	Range 1
+	Reload ---
+	Capacity ---
+	Require: ---
+	Repeir: ---
+	Research: ---
+	
+	Fire modes:
+	Normal: 3AP.
+	Power smash: DMG +2, 4AP, accuracy -1
+	
+	Modification 1: ---
+	Modification 2: ---
+	
+	
+	
+Wrench
+Damage: 2 Standard
+Range: 1
+Reload: ---
+Capacity: ---
+Require: ---
+Repeir: ---
+
+Research: ---
+
+
+
+
+Fire modes:
+Normal: 3AP.
+Power smash: DMG +2, 4AP, accuracy -1
+
+
+
+Modification 1: ---
+
+
+Modification 2: ---	
+	
+
+	
+	
+	
+	
+	
+---------------------------------------	
+	
+	
+	
+	
+Psionic Amplifier	
+	Can be used for casting psionics abilities.
+	Range -
+	Reload -
+	Capacity -
+	Require: -
+	Repeir: -
+	Research: ---
+	
+	Fire modes:
+	Normal casting: 3AP
+	
+	Modification 1: -
+	Modification 2: -
+	
+	
+	
+	
+Psionic Amplifier
+Damage: ---
+Range: ---
+Reload: ---
+Capacity: ---
+Require: ---
+Repeir: ---
+
+Research: ---
+
+
+
+
+Fire modes:
+Normal casting: 3AP
+
+
+
+
+Modification 1: ---
+
+
+
+Modification 2: ---
+
+
+	
+	
+	
+	
+	
+---------------------------------------	jędrek o historii
+	
+	
+	
+	
+	
+	
+	
+	
+Advanced Psionic Amplifier	
+	Can be used for casting psionics abilities.
+	Range -
+	Reload -
+	Capacity 4 Energy
+	Require:  PSI 1, Psionic Tier 2.
+	Repeir: -
+	Research: ---
+	
+	Fire modes:
+	Normal casting: 3AP
+	Amplified casting: Psionic Ability +1, Energy cost 1.
+	
+	Modification 1: Capacity +4 - Require skill 2, Nanite 2, Diffiulty 5
+	Modification 2: Amplified casting Psi cost reduced by 1 - Require skill 3, Nanite 5, Diffiulty 7
+	
+
+	
+	
+Advanced Psionic Amplifier
+Damage: ---
+Range: ---
+Reload: ---
+Capacity: 4 Energy
+Require: PSI 1, Psionic Tier 2.
+Repeir: ---
+
+Research: ---
+
+
+
+
+Fire modes:
+Normal casting: 3AP
+Amplified casting: Psionic Ability +1, Energy cost 1.
+
+
+
+Modification 1: 
+Capacity +4 - Require skill 2, Nanite 2, Diffiulty 5
+
+
+Modification 2: 
+Amplified casting Psi cost reduced by 1 - Require skill 3, Nanite 5, Diffiulty 7	
+	
+---------------------------------------	
+	
+	
+STANDARD:
+
+Talon M2A3 Pistol
+	DMG 2
+	Range 4
+	Reload 4AP
+	Capacity 6 Bullets
+	Require: STD 1
+	Repeir: Require skill 1, Nanite 2, Diffiulty 4
+	Research: ---
+	
+	Fire modes:
+	Semi: 1 shot, 2AP.
+	Triple: 3 shots, Range 2, 3AP.
+	
+	Modification 1: Capacity +4 - Require skill 1, Nanite 3, Diffiulty 3
+	Modification 2: DMG +1 - Require skill 2, Nanite 4, Diffiulty 5
+	
+	
+	
+Damage: 2(3) Standard
+Range: 4
+Reload: 4AP
+Capacity: 6(10) Bullets
+Require: STD 1
+Repeir: 	  Require skill 1,
+		 Nanite 2, Diffiulty 4
+Research: ---
+
+
+
+
+Fire modes:
+Semi: 1 shot, 2AP.
+Triple: 3 shots, Range 2, 3AP.
+	
+
+
+
+Modification 1: 
+Capacity +4
+Require skill 1, Nanite 3, Diffiulty 3
+
+Modification 2:
+DMG +1
+Require skill 2, Nanite 4, Diffiulty 5	
+	
+	
+	
+	
+	
+--------------------------------------------
+	
+	
+	
+	
+	
+	
+
+Shotgun
+	DMG 2 x3
+	Range 3
+	Reload 5AP
+	Capacity 4 Shells
+	Require: STD 2, STR 1
+	Repeir: Require skill 2, Nanite 2, Diffiulty 5
+	Research: ---
+	
+	Fire modes:
+	Semi: 1 shot, 3AP.
+	Double: 2 shots, 4AP.
+	
+	Modification 1: Capacity +2 - Require skill 1, Nanite 3, Diffiulty 4
+	Modification 2: DMG +1 - Require skill 2, Nanite 4, Diffiulty 6
+	
+	
+	
+Damage: 3x  2(3)Standard
+Range: 3
+Reload: 5AP
+Capacity: 4(6) Shells
+Require: STD 2, STR 1
+Repeir: 	  Require skill 2,
+		 Nanite 2, Diffiulty 5
+Research: ---
+
+
+
+
+Fire modes:
+Semi: 1 shot, 3AP.
+Double: 2 shots, 4AP.
+	
+
+
+
+Modification 1: 
+Capacity +2
+Require skill 1, Nanite 3, Diffiulty 4
+
+Modification 2:
+DMG +1
+Require skill 2, Nanite 4, Diffiulty 6		
+	
+	
+	
+	
+--------------------------------------------------------------------	
+	
+	
+	
+
+M-22 Assault Rifle
+	DMG 3
+	Range 5
+	Reload 4AP
+	Capacity 8 Bullets
+	Require: STD 3, STR 1
+	Repeir: Require skill 3, Nanite 2, Diffiulty 6
+	Research: ---
+	
+	Fire modes:
+	Semi: 1 shot, 2AP.
+	Brust: 3 shots, Range 3, 3AP.
+	Auto: 6 shots, Range 2, 4AP
+	
+	Modification 1: Capacity +8 - Require skill 2, Nanite 4, Diffiulty 5
+	Modification 2: DMG +1 - Require skill 3, Nanite 5, Diffiulty 8
+
+
+	
+Damage: 3(4) Standard
+Range: 5
+Reload: 4AP
+Capacity: 8(16) Bullets
+Require: STD 3, STR 1
+Repeir: 	  Require skill 3,
+		 Nanite 2, Diffiulty 6
+Research: ---
+
+
+
+
+Fire modes:
+Semi: 1 shot, 2AP.
+Brust: 3 shots, Range 3, 3AP.
+Auto: 6 shots, Range 2, 4AP.
+
+
+
+Modification 1: 
+Capacity +8.
+Require skill 2, Nanite 4, Diffiulty 5
+
+Modification 2:
+DMG +1.
+Require skill 3, Nanite 5, Diffiulty 8 
+
+----------------------------------------------------------------------
+
+ENERGY:
+
+Apollo H4 Laser Pistol
+	DMG 2
+	DMG Type Energy
+	Range 4
+	Reload 4AP
+	Capacity 8 Energy
+	Require: ENR 1
+	Repeir: Require skill 1, Nanite 2, Diffiulty 5
+	Research: ---
+	
+	Fire modes:
+	Normal: 1 shot, 2AP.
+	Overcharge: 1 shot, ammo consumption 4, DMG x3, Range 4, 3AP.
+	
+	Modification 1: Capacity +4 - Require skill 1, Nanite 3, Diffiulty 4
+	Modification 2: DMG +1 - Require skill 2, Nanite 4, Diffiulty 6
+
+	
+Damage: 2(3) Energy
+Range: 4
+Reload: 4AP
+Capacity: 8(12) Energy
+Require: ENR 1
+Repeir: 	  Require skill 1,
+		 Nanite 2, Diffiulty 5
+Research: ---
+
+
+
+
+Fire modes:
+Normal: 1 shot, 2AP.
+Overcharge: 1 shot, ammo consumption 4, DMG x3, Range 4, 3AP.
+	
+	
+
+
+Modification 1: 
+Capacity +4
+Require skill 1, Nanite 3, Diffiulty 4
+
+Modification 2:
+DMG +1
+Require skill 2, Nanite 4, Diffiulty 6 	
+	
+	
+-----------------------------------------------------------	
+	
+	
+	
+	
+	
+	
+Mark VI Laser Rapier
+	DMG 4
+	DMG Type Energy
+	Range 1
+	Reload ---
+	Capacity ---
+	Require: ENR 2, AGI 1
+	Repeir: ---
+	Research: ---
+	
+	Fire modes:
+	Normal: 2AP.
+	Power smash: DMG +3, 3AP, accuracy -1
+	
+	Modification 1: ---
+	Modification 2: ---
+
+	
+	
+Damage: 4 Energy
+Range: 1
+Reload: ---
+Capacity: ---
+Require: ENR 2, AGI 1
+Repeir: ---
+
+Research: ---
+
+
+
+
+Fire modes:
+Normal: 2AP.
+Power smash: DMG +3, 3AP, accuracy -1
+
+
+
+Modification 1: ---
+
+
+Modification 2: ---		
+	
+----------------------------------------------------------	
+	
+
+Dual-Circuit EMP Rifle
+	DMG 5
+	DMG Type Energy
+	Range 4
+	Reload 4AP
+	Capacity 8 Energy
+	Require: ENR 3
+	Repeir: Require skill 3, Nanite 3, Diffiulty 7
+	Research: ---
+	
+	Fire modes:
+	Normal: 1 shot, ammo consumption 2, 2AP.
+	Overcharge: 1 shot, ammo consumption 5, DMG x2, 3AP, AOE 1.
+	
+	Modification 1: Capacity +8 - Require skill 2, Nanite 4, Diffiulty 6
+	Modification 2: DMG +2 - Require skill 3, Nanite 5, Diffiulty 8
+
+
+Damage: 5(7) Energy
+Range: 4
+Reload: 4AP
+Capacity: 8(16) Energy
+Require: ENR 3
+Repeir: 	  Require skill 3,
+		 Nanite 3, Diffiulty 7
+Research: ---
+
+
+
+
+Fire modes:
+Normal: 1 shot, ammo consumption 2, 2AP.
+Overcharge: 1 shot, ammo consumption 5, DMG x2, 3AP, AOE 1.
+	
+	
+
+
+Modification 1: 
+Capacity +8
+Require skill 2, Nanite 4, Diffiulty 6
+
+Modification 2:
+DMG +2
+Require skill 3, Nanite 5, Diffiulty 8	
+	
+	
+--------------------------------------------------------
+	
+	
+
+HEAVY:
+
+TC-11 "Brick" Grenade Launcher
+	DMG ---
+	DMG Type ---
+	Range 3
+	Reload 6AP
+	Capacity 2 Grenades
+	Require: HEV 1, STR 1
+	Repeir: Require skill 1, Nanite 2, Diffiulty 5
+	Research: ---
+	
+	Fire modes:
+	Normal: 1 shot, 3AP.
+	
+	Modification 1: Capacity +2 - Require skill 1, Nanite 3, Diffiulty 4
+	Modification 2: Range +1, Reload 4AP - Require skill 2, Nanite 4, Diffiulty 6
+
+	
+Damage: Depends on Grenade
+Range: 3(4)
+Reload: 6(4)AP
+Capacity: 2(4) Grenades
+Require: HEV 1, STR 1
+Repeir: 	  Require skill 1,
+		 Nanite 2, Diffiulty 5
+Research: ---
+
+
+
+
+Fire modes:
+Normal: 1 shot, 3AP.
+	
+	
+
+
+Modification 1: 
+Capacity +2
+Require skill 1, Nanite 3, Diffiulty 4
+
+Modification 2:
+Range +1, Reload 4AP
+Require skill 2, Nanite 4, Diffiulty 6		
+	
+	
+	
+------------------------------------------------------
+	
+	
+	
+	
+Stasis Field Generator
+	DMG --- Energy
+	Range 3
+	Reload 5AP
+	Capacity 4 Prisms
+	Require: HEV 2, STR 2 
+	Repeir: Require skill 2, Nanite 2, Diffiulty 6
+	Research: ---
+	
+	Fire modes:
+	Normal: 1 shot, 3AP, stun target for 3 turns.
+	Distruption: 1 shot, DMG 8, ammo consumption 2, 3AP
+	
+	Modification 1: Capacity +4 - Require skill 1, Nanite 4, Diffiulty 6
+	Modification 2: Stun target for 4 turns - Require skill 5, Nanite 2, Diffiulty 7
+
+	
+	
+Damage: Energy
+Range: 3
+Reload: 5AP
+Capacity: 4(8) Prisms
+Require: HEV 2, STR 2
+Repeir: 	  Require skill 2,
+		 Nanite 2, Diffiulty 5
+Research: ---
+
+
+
+
+Fire modes:
+Normal: 1 shot, 3AP, stun target for 3 turns.
+Distruption: 1 shot, DMG 8, ammo consumption 2, 4AP
+(affects only stuned targets)
+	
+
+
+Modification 1: 
+Capacity +4
+Require skill 1, Nanite 4, Diffiulty 6
+
+Modification 2:
+Stun target for 4 turns
+Require skill 5, Nanite 2, Diffiulty 7			
+	
+	
+	
+------------------------------------------------------------
+	
+	
+	
+	
+	
+Fusion Cannon
+	DMG 12 Standard
+	Range 4
+	Reload 6AP
+	Capacity 8 Prisms
+	Require: HEV 3, STR 3, END 1
+	Repeir: Require skill 3, Nanite 3, Diffiulty 7
+	Research: ---
+	
+	Fire modes:
+	Normal: 1 shot, ammo consumption 2 3AP, AOE 1.
+	Overcharge: 1 shot, DMG x2, ammo consumption 4, 4AP AOE2
+	
+	Modification 1: Capacity +4 - Require skill 2, Nanite 4, Diffiulty 6
+	Modification 2: DMG +4 - Require skill 3, Nanite 6, Diffiulty 8
+
+	
+Damage: 12(16) Energy
+Range: 4
+Reload: 6AP
+Capacity: 8(12) Prisms
+Require: HEV 3, STR 3, END 1
+Repeir: 	  Require skill 3,
+		 Nanite 3, Diffiulty 7
+Research: ---
+
+
+
+
+Fire modes:
+Normal: 1 shot, ammo consumption 2 3AP, AOE 1.
+Overcharge: 1 shot, DMG x2, ammo consumption 4, 4AP AOE2
+	
+
+
+Modification 1: 
+Capacity +4
+Require skill 2, Nanite 4, Diffiulty 6
+
+Modification 2:
+DMG +4
+Require skill 3, Nanite 6, Diffiulty 8	
+	
+	
+	
+	
+	
+	
+
+	----------------------------------------------------------------------
+
+EXOTIC:
+
+Crystal Shard
+	DMG 6 Standard
+	Range 1
+	Reload ---
+	Capacity ---
+	Require: EXO 1, AGI 1, 
+	Repeir: ---
+	Research: Require skill 1, Common Chemicals, time 4.
+	
+	Fire modes:
+	Normal: 2AP.
+	Power smash: DMG +4, 3AP, accuracy -1
+	
+	Modification 1: ---
+	Modification 2: ---
+	
+	
+	
+Damage: 6 Standard
+Range: 1
+Reload: ---
+Capacity: ---
+Require: EXO 1, AGI 1,
+Repeir: ---
+
+Research:
+Require skill 1,
+Common Chemicals,
+Research time 4 turns.
+
+Fire modes:
+Normal: 2AP.
+Power smash: DMG +4, 3AP, accuracy -1
+
+
+
+Modification 1: ---
+
+
+Modification 2: ---	
+	
+------------------------------------------------------	
+	
+	
+
+Viral Proliferator
+	DMG 8 Biological
+	Range 3
+	Reload 6AP
+	Capacity 4 Worms
+	Require: EXO 2,
+	Repeir: Require skill 2, Nanite 2, Diffiulty 5
+	Research: Require skill 2, Chemicals, time 6.
+	
+	
+	Fire modes:
+	Normal: 1 shot, 3AP.
+	
+	Modification 1: Capacity +2 - Require skill 1, Nanite 3, Diffiulty 6
+	Modification 2: DMG +2 - Require skill 2, Nanite 4, Diffiulty 7
+	
+	
+	
+Damage: 8(10) Biological
+Range: 3
+Reload: 6AP
+Capacity: 4(6) Worms
+Require: EXO 2
+Repeir: 	  Require skill 2,
+		 Nanite 2, Diffiulty 5
+Research:
+Require skill 2,
+Chemicals,
+Research time 6 turns.
+
+Fire modes:
+Normal: 1 shot, 3AP.
+
+	
+
+
+Modification 1: 
+Capacity +2
+Require skill 1, Nanite 3, Diffiulty 6
+
+Modification 2:
+DMG +2
+Require skill 2, Nanite 4, Diffiulty 7		
+	
+
+	
+---------------------------------------------------------------	
+	
+	
+Annelid Launcher
+	DMG 2x 8 Biological
+	Range 4
+	Reload 4AP
+	Capacity 6 Worms
+	Require: EXO 3, STR 1, END 1
+	Repeir: Require skill 3, Nanite 3, Diffiulty 7
+	Research: Require skill 3, Rare Chemicals, time 8.
+	
+	Fire modes:
+	Normal: 1 shot, ammo consumption 2, 3AP.
+	Flood: 1 shot, ammo consumption 3, AOE 1, 4AP.
+	
+	Modification 1: Capacity +6 - Require skill 2, Nanite 4, Diffiulty 7
+	Modification 2: DMG +3 - Require skill 3, Nanite 6, Diffiulty 9
+
+
+Damage: 2x 8(12) Biological
+Range: 4
+Reload: 4AP
+Capacity: 6(12) Worms
+Require: Require: EXO 3, STR 1, END 1
+Repeir: 	  Require skill 3,
+		 Nanite 3, Diffiulty 7
+Research:
+Require skill 3,
+Rare Chemicals,
+Research time 8 turns.
+
+Fire modes:
+Normal: 1 shot, ammo consumption 2, 3AP.
+Flood: 1 shot, ammo consumption 3, AOE 1, 4AP.
+
+	
+
+
+Modification 1: 
+Capacity +6
+Require skill 2, Nanite 4, Diffiulty 7
+
+Modification 2:
+DMG +4
+Require skill 3, Nanite 6, Diffiulty 9
+	
+	
+	
+
+	
+	
+	
+
+
+Damage: 3(4) Standard
+Range: 5
+Reload: 4AP
+Capacity: 8(16) Bullets
+Require: STD 3, STR 1
+Repeir: 	  Require skill 3,
+		 Nanite 2, Diffiulty 6
+Research: ---
+
+
+
+
+Fire modes:
+Semi: 1 shot, 2AP.
+Brust: 3 shots, Range 3, 3AP.
+Auto: 6 shots, Range 2, 4AP.
+
+
+
+Modification 1: 
+Capacity +8.
+Require skill 2, Nanite 4, Diffiulty 5
+
+Modification 2:
+DMG +1.
+Require skill 3, Nanite 5, Diffiulty 8 

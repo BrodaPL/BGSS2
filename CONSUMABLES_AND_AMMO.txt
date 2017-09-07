@@ -1,0 +1,144 @@
+CONSUMABLES
+
+Cons:
+	Med Hypo
+	Size: Small
+	Effect: +2HP/turn
+	Usage: 3AP
+	Duration: 3 turns
+	Nanites cost: 6
+	
+	Psi Hypo
+	Size: Small
+	Effect: +10PP
+	Usage: 3AP
+	Duration: -
+	Nanites cost: 7
+	
+	Agility Hypo
+	Size: Small
+	Effect: +1 Agility
+	Usage: 3AP
+	Duration: 6 turns
+	Nanites cost: 6
+	
+	Strength Hypo
+	Size: Small
+	Effect: +1 Strength
+	Usage: 3AP
+	Duration: 6 turns
+	Nanites cost: 6
+	
+	Psionic Ability Hypo
+	Size: Small
+	Effect: +1 Psionic Ability
+	Usage: 3AP
+	Duration: 6 turns
+	Nanites cost: 7
+	
+	MedKit
+	Size: Large
+	Effect: +5HP/turn
+	Usage: 6AP
+	Duration: 5 turns
+	Nanites cost: 14
+	
+	Portable battery x1
+	Size: Small
+	Effect: Recharge 1 item to it's full energy.
+	Usage: 6AP
+	Nanites cost: 15
+	
+	Auto Repair Unit
+	Size: Large
+	Effect: Repairs 1 item
+	Usage: 2 turns
+	Nanites cost: 20
+	
+	Maintance Tool
+	Size: Small
+	Effect: When used, permanently protect seleted weapon from efect of "Click..." action card.
+	Usage: 6AP
+	Nanites cost: 14
+	
+	Diagnostic/Repair Module
+	Size: Large
+	Effect: +5HP/turn
+	Usage: 6AP
+	Duration: 2 turns
+	Nanites cost: -
+
+	Annelid healing organ
+	Size: Small
+	Effect: +1HP/turn
+	Usage: 5AP
+	Duration: 6 turns
+	Nanites cost: -
+	
+	Annelid psionic organ
+	Size: Small
+	Effect: +3PP/turn
+	Usage: 5AP
+	Duration: 6 turns
+	Nanites cost: -
+	
+	ICE Pick
+	Size: Small
+	Effect: Can be used for ONE instantly hack;
+	Usage: 2 turns
+	Duration: -
+	Nanites cost: -
+
+	
+	
+	
+AMMO
+
+
+	Bullet x1
+    Description: -
+	Nanites cost: 4
+	
+	Bullets x2
+    Description: -
+	Nanites cost: 5
+	
+	Shell x1
+	Description: -
+	Nanites cost: 5
+	
+	Shells x2
+	Description: -
+	Nanites cost: 7
+	
+	Prism x1
+	Description: -
+	Nanites cost: 6
+	
+	Prisms x2
+	Description: -
+	Nanites cost: 8
+	
+	Explosive grenade
+	Description: Impact DMG 8, AOE 2 DMG 8
+	Damage type: Standard
+	Nanites cost: 8
+
+	Energy grenade
+	Description: Impact DMG 14, AOE 1 DMG 6
+	Damage type: Energy
+	Nanites cost: 9
+	
+	Incredinary grenade 
+	Description: Impact DMG 4, AOE 2 DMG 10
+	Damage type: Fire
+	Nanites cost: 9
+	
+	Fusion grenade
+	Description: Impact DMG 12, AOE 1 DMG 12
+	Damage type: Pearcing
+	Nanites cost: 14
+	
+	Worms
+	Description: Ammo for some Exotic weapons.
+	Nanites cost: -

@@ -1,0 +1,310 @@
+Swarm
+	HP: 3
+	AP: 4
+	Range:  -
+	Weapon: Stings: DMG 3 Bio AP 3;
+	Resistances:  Std: -, Ene: -, Fire: -, Psi: -, Bio: -
+	Drop:  1:- 2:- 3:- 4:- 5:- 6:-
+	Always drop:  -
+	Creature points cost: Mechanical: - Biological: -
+	Info: Can be damaged only by non direct AOE hit. Loses 1HP every trun.
+	
+*Annelid Egg
+	HP: 4
+	AP: -
+	Range: -
+	Weapon: -
+	Resistances:  Std: 0, Ene: 5, Fire: -2, Psi: 0, Bio: 1
+	Drop:  1:- 2:- 3:- 4:- 5:- 6:-
+	Always drop: -
+	Creature points cost: Mechanical: - Biological: 1
+	
+Annelid Swarm Egg
+	HP: 4
+	AP: -
+	Range: -
+	Weapon: Release Swarm;
+	Resistances:  Std: 0, Ene: 5, Fire: -2, Psi: 0, Bio: 1
+	Drop:  1:- 2:- 3:- 4:- 5:Annelid healing organ 6: Annelid psionic organ
+	Always drop:  -
+	Creature points cost: Mechanical: - Biological: 2
+	Info: Realease Swarm when player is 2 squares away.
+	
+Annelid Arachnid Egg
+	HP: 4
+	AP: -
+	Range: -
+	Weapon: Release Infant Arachnid;
+	Resistances:  Std: 0, Ene: 5, Fire: -2, Psi: 0, Bio: 1
+	Drop:  1:- 2:- 3:- 4:- 5:Annelid healing organ 6: Annelid psionic organ
+	Always drop:  -
+	Creature points cost: Mechanical: - Biological: 2
+	Info: Realease Swarm when player is 2 squares away.
+	
+Annelid Black Egg
+	HP: 4
+	AP: -
+	Range: -
+	Weapon: -
+	Resistances:  Std: 1, Ene: 6, Fire: -2, Psi: 0, Bio: 1
+	Drop:  1:- 2:- 3:- 4:- 5:- 6:-
+	Always drop:  -
+	Creature points cost: Mechanical: - Biological: -
+	
+Hybrid Melee
+	HP: 10
+	AP: 4
+	Range:  -
+	Weapon: Metal pipe / Wrench;
+	Resistances:  Std: 0, Ene: 2, Fire: -1, Psi: 0, Bio: 0
+	Drop:  1:- 2:- 3:- 4:1N 5:2N 6:3N
+	Always drop: Metal pipe / Wrench
+	Creature points cost: Mechanical: - Biological: 4
+	
+Hybrid pistol
+	HP: 10
+	AP: 3
+	Range: 4
+	Weapon: Talon M2A3 Pistol;
+	Resistances:  Std: 0, Ene: 2, Fire: -1, Psi: 0, Bio: 0
+	Drop:  1:- 2:Bullet x1 3:Bullet x2 4:3N 5:5N 6:Med Hypo
+	Always drop: Broken Pistol
+	Creature points cost: Mechanical: - Biological: 6
+	
+Hybrid shotgun
+	HP: 10
+	AP: 3
+	Range: 3
+	Weapon: Shotgun;
+	Resistances:  Std: 0, Ene: 2, Fire: -1, Psi: 0, Bio: 0
+	Drop:  1:- 2:Shell x1 3:Shell x2 4:3N 5:5N 6:Med Hypo
+	Always drop: Broken shotgun
+	Creature points cost: Mechanical: - Biological: 8
+
+Hybrid grenade
+	HP: 10
+	AP: 3
+	Range: 2
+	Weapon: Random grenade AP 3;
+	Resistances:  Std: 0, Ene: 2, Fire: -1, Psi: 0, Bio: 0
+	Drop:  1:- 2:- 3:2N 4:3N 5:5N 6:Med Hypo
+	Always drop: Random grenade
+	Creature points cost: Mechanical: 2 Biological: 10
+	
+**Black Egg Hybrid
+	HP: 20
+	AP: 6
+	Range:  -
+	Weapon: Viral Proliferator, Crystal Shard and random Psionic skills;
+	Resistances:  Std: 3, Ene: 3, Fire: 2, Psi: 4, Bio: 4
+	Drop:  1:- 2:- 3:Worms x1 4:Worms x2 5:Worms x3 6: Worms x4
+	Always drop: Annelid healing organ, Annelid psionic organ
+	Creature points cost: Mechanical: - Biological: -
+	
+Infant Arachnid
+	HP: 3
+	AP: 3
+	Range:  -
+	Weapon: Sting: DMG 2 Bio AP 3;
+	Resistances:  Std: 0, Ene: 4, Fire: -1, Psi: -1, Bio: -1
+	Drop:  1:- 2:- 3:- 4:- 5:- 6:-
+	Always drop:  -
+	Creature points cost: Mechanical: - Biological: - 
+	Small target: Players accuracy -1
+	
+Adult Arachnid
+	HP: 8
+	AP: 4
+	Range:  -
+	Weapon: Sting: DMG 6 Bio AP 3;
+	Resistances:  Std: 1, Ene: 5, Fire: -1, Psi: -1, Bio: 0
+	Drop:  1:- 2:- 3:- 4:- 5:- 6:Annelid healing organ
+	Always drop:  -
+	Creature points cost: Mechanical: - Biological: 5
+	Info: Deploy cost is reduced by 1 if deployed in room with Arachnid Egg.
+	Small target: Players accuracy -1
+	
+Rumbler
+	HP: 40
+	AP: 4
+	Range: -
+	Weapon: Smash: DMG 9 Std AP 2; Power smash DMG 15 AP4 Accouracy -1;
+	Resistances:  Std: 1, Ene: 3, Fire: -1, Psi: 0, Bio: 0
+	Drop:  1:- 2:- 3:- 4:- 5:- 6:-
+	Always drop:  Annelid healing organ
+	Creature points cost: Mechanical: - Biological: 25
+	Big target: Players accuracy +1
+	
+Psi Monkey
+	HP: 3
+	AP: 4
+	Range: 3
+	Weapon: Projected Cryokinesis: DMG 3 Psi AP 3;
+	Resistances:  Std: 0, Ene: 1, Fire: -1, Psi: -1, Bio: 0
+	Drop:  1:- 2:- 3:- 4:- 5:- 6:-
+	Always drop:  -
+	Creature points cost: Mechanical: - Biological: 3
+	Small target: Players accuracy -1
+	
+Red Pis Monkey
+	HP: 5
+	AP: 4
+	Range: 4
+	Weapon: Projected Pyrokinesis: DMG 6 Fire AP 3;
+	Resistances:  Std: 0, Ene: 1, Fire: -1, Psi: -1, Bio: 0
+	Drop:  1:- 2:- 3:- 4:- 5:- 6:Annelid psionic organ
+	Always drop:  -
+	Creature points cost: Mechanical: - Biological: 5
+	Small target: Players accuracy -1
+	
+Psi-Reaver Projection
+	HP: 20
+	AP: 4
+	Range: 6
+	Weapon: Psionic bolt: DMG 7 Psi AP 3; 
+	Resistances:  Std: 0, Ene: 3, Fire: 0, Psi: 1, Bio: -1
+	Drop:  1:- 2:- 3:- 4:- 5:Annelid psionic organ 6:Annelid psionic organ
+	Always drop:  -
+	
+Greater Psi-Reaver Projection
+	HP: 25
+	AP: 4
+	Range: 7
+	Weapon: Psionic bolt: DMG 11 Psi AP 3;
+	Resistances:  Std: 1, Ene: 4, Fire: 0, Psi: 2, Bio: -1
+	Drop:  1:- 2:- 3:- 4:- 5:- 6:-
+	Always drop: Annelid psionic organ
+	
+Psi-Reaver's Brain
+	HP: 1
+	AP: 3
+	Range: 1
+	Weapon: Create Psi-Reaver Projection 12 AP;
+	Resistances:  Std: 0, Ene: 2, Fire: 0, Psi: 1, Bio: -2
+	Drop:  1:- 2:- 3:- 4:- 5:- 6:-
+	Always drop:  -
+	Creature points cost: Mechanical: - Biological: 30
+	Small target: Players accuracy -1
+	
+Greater Psi-Reaver's Brain
+	HP: 1
+	AP: 3
+	Range: 1
+	Weapon: Create Greater Psi-Reaver Projection 12 AP;
+	Resistances:  Std: 0, Ene: 2, Fire: 0, Psi: 1, Bio: -2
+	Drop:  1:- 2:- 3:- 4:- 5:- 6:-
+	Always drop:  -
+	Creature points cost: Mechanical: - Biological: 35
+	Small target: Players accuracy -1
+	
+Cybernetic Midwife
+	HP: 12
+	AP: 3
+	Range: 5
+	Weapon: Laser Pistol (built-in) Overcharge;
+	Resistances:  Std: 2, Ene: 0, Fire: 1, Psi: 2, Bio: 2
+	Drop:  1:- 2:- 3:3N 4:3N 5:5N 6:Battery
+	Always drop:  -
+	Creature points cost: Mechanical: 4 Biological: 4
+	Info: Deploy cost is reduced by 1 if deployed in room with at last 5 eggs of any kind.
+	
+	
+Cybernetic Assasin
+	HP: 12
+	AP: 5
+	Range: -
+	Weapon: Claws: DMG 5 Std AP 2; Shuriken: DMG 4 Std AP 3 Range 3;
+	Resistances:  Std: 2, Ene: 0, Fire: 2, Psi: 3, Bio: 5
+	Drop:  1:- 2:3N 3:3N 4:5N 5:5N 6:Random implant
+	Always drop:  -
+	Creature points cost: Mechanical: 8 Biological: 2
+	
+Red Cybernetic Assasin
+	HP: 16
+	AP: 6
+	Range: -
+	Weapon: Claws DMG 5 Std AP 2; Shuriken: DMG 4 Std AP 3 Range 4;
+	Resistances:  Std: 3, Ene: 0, Fire: 3, Psi: 3, Bio: 6
+	Drop:  1:- 2:3N 3:3N 4:5N 5:5N 6:Random implant
+	Always drop:  -
+	Creature points cost: Mechanical: 12 Biological: 4
+	
+Protocol Droid
+	HP: 8
+	AP: 2
+	Range: -
+	Weapon: Self destruction: DMG 10 Std AP 1 Range: - AOE1;
+	Resistances:  Std: 2, Ene: -1, Fire: 10, Psi: 4, Bio: -
+	Drop:  1:- 2:- 3:- 4:- 5:1N 6:2N
+	Always drop:  -
+	Creature points cost: Mechanical: 3 Biological: -
+	
+Maintance Robot
+	HP: 30
+	AP: 2
+	Range: 4
+	Weapon: Electrical spark welder(built-in): DMG 4 Ene AP 2;
+	Resistances:  Std: 3, Ene: -2, Fire: 15, Psi: 4, Bio: -
+	Drop:  1:- 2:3N 3:3N 4:5N 5:5N 6:Battery
+	Always drop:  -
+	Creature points cost: Mechanical: 20 Biological: -
+	Big target: Players accuracy +1
+	
+Security Robot
+	HP: 30
+	AP: 2
+	Range: 5
+	Weapon: Dual-Circuit EMP Rifle(built-in)
+	Resistances:  Std: 4, Ene: -2, Fire: 15,  Psi: 4, Bio: -
+	Drop:  1:- 2:3N 3:3N 4:5N 5:Battery 6:Battery, 3N
+	Always drop:  -
+	Creature points cost: Mechanical: 25 Biological: -
+	Big target: Players accuracy +1
+	
+Assualt Robot
+	HP: 40
+	AP: 2
+	Range: 5
+	Weapon: Fusion Cannon(built-in)
+	Resistances:  Std: 5, Ene: -2, Fire: 15,  Psi: 4, Bio: -
+	Drop:  1:- 2:3N 3:6N 4:6N 5:2Prism 6:2Prism, 3N
+	Always drop:  3N, 2Prism
+	Creature points cost: Mechanical: 30 Biological: -
+	Big target: Players accuracy +1
+	
+Security Slug Turret
+	HP: 12
+	AP: 2
+	Range: 5
+	Weapon: Assault Rifle(built-in) Brust;
+	Resistances:  Std: 4, Ene: -2, Fire: 15,  Psi: 4, Bio: -
+	Drop:  1:- 2:Bullet x1 3:Bullet x2 4:Bullet x2 5:Bullet x3 6:Bullet x3
+	Always drop:  -
+	Creature points cost: Mechanical: - Biological: -
+	Hacking: Require skill 2, Diffiulty 6, Nanite 3
+	
+Security Laser Turret
+	HP: 12
+	AP: 2
+	Range: 5
+	Weapon: Laser Pistol(built-in) Overcharge;
+	Resistances:  Std: 4, Ene: -2, Fire: 15,  Psi: 4, Bio: -
+	Drop:  1:- 2:- 3:- 4:- 5:Battery 6:Battery
+	Always drop:  -
+	Creature points cost: Mechanical: - Biological: -
+	Hacking: Require skill 2, Diffiulty 5, Nanite 2
+	
+Security Camera
+	HP: 1
+	AP: 2
+	Range: 6
+	Resistances:  Std: 4, Ene: -2, Fire: 15,  Psi: 4, Bio: -
+	Drop:  1:- 2:- 3:- 4:- 5:- 6:-
+	Always drop:  -
+	Creature points cost: Mechanical: - Biological: -
+	Small target: Players accuracy -1
+
+	
+
+* No idea what to do with it
+** Early concept

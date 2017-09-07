@@ -1,0 +1,69 @@
+TRAINING CARDS
+
+
+Marine:
+Year One:
+	1: Strength +1	(3CM)
+	2: Endurance +1	(3CM)
+	3: Agility +1	(3CM)
+
+Year Two:
+	1: Standard Weapons +1	(3CM)
+		Starting Equipment: Talon M2A3 .45 Caliber Pistol, Bullets x12
+	2: Energy Weapons +1	(3CM)
+		Starting Equipment: Apollo H4 Laser Pistol, Portable Battery x2
+	3: Heavy Weapons +1		(3CM)
+		Starting Equipment: TC-11 "Brick" Grenade Launcher, 2 Random Grenades
+	
+Year Three:
+	1: Standard Weapons +1	(3/6CM)
+	2: Cybernetic Affinity +1, Repair +1 (5CM)
+	3: Cybernetic Affinity +1, Modify +1 (5CM)
+	
+Bonus: 6CM for unrestricted use.
+Starting Equipment: Med Hypo x1, 5N
+
+	
+	
+Navy:
+Year One:
+	1: Research +1	(2CM)
+	2: Repair +1	(2CM)
+	3: Modify +1	(2CM)
+
+Year Two:
+	1: Cybernetic Affinity +1	(3CM)
+		Starting Equipment: 10N
+	2: Endurance +1				(3CM)
+		Starting Equipment: Med Hypo x1
+	3: Agility +1				(3CM)
+		Starting Equipment: Agility Hypo x1
+
+Year Three:
+	1: Standard Weapons +1,	Hacking +1(6CM)
+	2: Standard Weapons +1, Repair +1 (5CM)
+	3: Standard Weapons +1, Modify +1 (5CM)
+	
+Bonus: 6CM for unrestricted use.
+Starting Equipment:Talon M2A3 .45 Caliber Pistol, Bullets x6, Med Hypo x1, 20N
+	
+	
+	
+O.S.A.:
+Year One:
+	1: Psionic Ability +1, Psionic Skills Tier 1, Psychogenic Agility	(8CM)
+	2: Psionic Ability +1, Psionic Skills Tier 1, Psychogenic Cyber-Affinity	(8CM)
+	3: Psionic Ability +1, Psionic Skills Tier 1, Psychogenic Strength	(8CM)
+
+Year Two:
+	1: Psionic Ability +1, 					(6CM)
+	2: Cybernetic Affinity +1, Research +1	(5CM)
+	3: Agility +1, Modify +1				(5CM)
+	
+Year Three:
+	1: Psionic Skills Tier 2, Psionic Hypnogenesis	(9CM)
+	2: Projected Pyrokinesis, Research +1 (4/6CM)
+	3: Projected Pyrokinesis, Modify +1 (4/6CM)
+	
+Bonus: 2CM for unrestricted use.
+Starting Equipment:Psionic Amplifier, Med Hypo x1, Psi Hypo x1, 10N

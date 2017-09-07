@@ -1,0 +1,28 @@
+TECH SKILLS:
+Lvl 1: 2CM
+Lvl 2: 4CM
+Lvl 3: 6CM
+
+Modify
++1 to Modify effectivity
+
+Repair
++1 to Repair effectivity
+
+Research
++1 to Research effectivity
+
+Hacking
+Lvl 1: 3CM
+Lvl 2: 6CM
+Lvl 3: 9CM
++1 to Hacking effectivity
+
+***Maintenance
+Have no idea what to do with this skill.
+
+
+COSTS:
+Hacking to full 18CM.
+One other on full 12CM.
+All on full 54CM.

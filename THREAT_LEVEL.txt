@@ -1,0 +1,195 @@
+THREAT LEVEL
+
+There are 12 threat levels
+Biologicl Creature Point - BCP
+Mechanical Creature Point - MCP
+
+Every 5 eggs of any kind gives 1 BCP per 2 turns.
+
+THREAT LEVEL 1
+BCP 1	MCP 0
+Creatures:
+	Eggs of any kind	6
+	Hybrid Melee 	2
+	Psi Monkey 		1
+
+
+THREAT LEVEL 2
+BCP 1	MCP 1
+Creatures:
+	Eggs of any kind	6
+	Hybrid Melee 	2
+	Psi Monkey 		1
+	Protocol Droid 	1
+
+THREAT LEVEL 3
+BCP 2	MCP 1
+Creatures:
+	Eggs of any kind	6
+	Hybrid Melee 	2
+	Hybrid pistol	1
+	Psi Monkey 		1
+	Protocol Droid 	1
+
+THREAT LEVEL 4
+BCP 2	MCP 2
+Creatures:
+	Eggs of any kind	6
+	Hybrid Melee 	3
+	Hybrid pistol	1
+	Psi Monkey 		2
+	Protocol Droid 	1
+	Maintance Robot 1
+
+THREAT LEVEL 5
+BCP 3	MCP 2
+Creatures:
+	Eggs of any kind	10
+	Hybrid Melee 	4
+	Hybrid pistol	2
+	Psi Monkey 		2
+	Protocol Droid 	2
+	Maintance Robot 1
+	Hybrid shotgun  1
+	Red Pis Monkey	1
+	Cybernetic Midwife	1
+
+THREAT LEVEL 6
+BCP 3	MCP 3
+Creatures:
+	Eggs of any kind	10
+	Hybrid Melee 	4
+	Hybrid pistol	2
+	Psi Monkey 		2
+	Protocol Droid 	3
+	Maintance Robot 1
+	Hybrid shotgun  2
+	Red Pis Monkey	2
+	Cybernetic Midwife	1
+	Adult Arachnid	2
+
+THREAT LEVEL 7
+BCP 4	MCP 3
+Creatures:
+	Eggs of any kind	10
+	Hybrid Melee 	5
+	Hybrid pistol	3
+	Psi Monkey 		3
+	Protocol Droid 	3
+	Maintance Robot 1
+	Hybrid shotgun  2
+	Red Pis Monkey	2
+	Cybernetic Midwife	2
+	Adult Arachnid	2
+	Cybernetic Assasin	1
+
+THREAT LEVEL 8
+BCP 4	MCP 4
+Creatures:
+	Eggs of any kind	10
+	Hybrid Melee 	5
+	Hybrid pistol	3
+	Psi Monkey 		3
+	Protocol Droid 	3
+	Maintance Robot 2
+	Hybrid shotgun  2
+	Red Pis Monkey	3
+	Cybernetic Midwife	2
+	Adult Arachnid	3
+	Cybernetic Assasin	2
+	Security Robot	1
+
+THREAT LEVEL 9
+BCP 5	MCP 4
+Creatures:
+	Eggs of any kind	15
+	Hybrid Melee 	5
+	Hybrid pistol	3
+	Psi Monkey 		3
+	Protocol Droid 	3
+	Maintance Robot 2
+	Hybrid shotgun  3
+	Red Pis Monkey	3
+	Cybernetic Midwife	2
+	Adult Arachnid	4
+	Cybernetic Assasin	2
+	Security Robot	1
+	Red Cybernetic Assasin	1
+	Hybrid grenade	1
+
+THREAT LEVEL 10
+BCP 5	MCP 5
+Creatures:
+	Eggs of any kind	15
+	Hybrid Melee 	5
+	Hybrid pistol	3
+	Psi Monkey 		3
+	Protocol Droid 	3
+	Maintance Robot 2
+	Hybrid shotgun  3
+	Red Pis Monkey	3
+	Cybernetic Midwife	2
+	Adult Arachnid	4
+	Cybernetic Assasin	2
+	Security Robot	1
+	Red Cybernetic Assasin	1
+	Hybrid grenade	1
+	Psi-Reaver's Brain	1
+	Rumbler			1
+
+THREAT LEVEL 11
+BCP 6	MCP 5
+Creatures:
+	Eggs of any kind	15
+	Hybrid Melee 	5
+	Hybrid pistol	3
+	Psi Monkey 		3
+	Protocol Droid 	3
+	Maintance Robot 2
+	Hybrid shotgun  3
+	Red Pis Monkey	3
+	Cybernetic Midwife	2
+	Adult Arachnid	4
+	Cybernetic Assasin	2
+	Security Robot	1
+	Red Cybernetic Assasin	1
+	Hybrid grenade	1
+	Psi-Reaver's Brain	1
+	Rumbler			2
+	Assualt Robot	1
+
+THREAT LEVEL 12
+BCP 6	MCP 6
+Creatures:
+	Eggs of any kind	15
+	Hybrid Melee 	5
+	Hybrid pistol	3
+	Psi Monkey 		3
+	Protocol Droid 	3
+	Maintance Robot 2
+	Hybrid shotgun  3
+	Red Pis Monkey	3
+	Cybernetic Midwife	2
+	Adult Arachnid	4
+	Cybernetic Assasin	2
+	Security Robot	1
+	Red Cybernetic Assasin	1
+	Hybrid grenade	1
+	Psi-Reaver's Brain	1
+	Rumbler			2
+	Assualt Robot	1
+	Greater Psi-Reaver's Brain	1
+
+
+
+
+
+
+
+
+
+
+*Annelid Black Egg
+*Black Egg Hybrid
+
+*Depends on scenario.

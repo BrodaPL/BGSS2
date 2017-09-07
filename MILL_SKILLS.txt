@@ -1,0 +1,20 @@
+WEAPONS SKILLS:
+Lvl 1: 3CM
+Lvl 2: 6CM
+Lvl 3: 9CM
+
+Standard Weapons(STD):
++1 to Standard Weapons accuracy
+
+Energy Weapons(ENR):
++1 to Energy Weapons accuracy
+
+Heavy Weapons(HEV):
++1 to Heavy Weapons accuracy
+
+Exotic Weapons(EXO)
++1 to Exotic Weapons accuracy
+
+COSTS:
+One to full 18CM.
+All on full 72CM.

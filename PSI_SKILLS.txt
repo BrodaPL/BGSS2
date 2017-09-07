@@ -1,0 +1,155 @@
+PSIONIC SKILLS:
+Tier 1 cost 3CM
+Tier 2 cost 6CM
+Tier 3 cost 9CM
+Each Tier gransts 5PP.
+
+Tier 1:
+Skill cost 2CM
+Usage cost: 1PP
+Avaiable skills:
+	Projected Cryokinesis
+		DMG 1, Range 1, DMG type Standard.
+		+1DMG and +1 Accuracy per PSI.
+	Psycho-Reflective Screen
+		Provide 1 STD DMG reduction.
+		Duration 1 turns +2 per PSI.
+	Thermal-Reflective Screen
+		Provide 3 Fire DMG reduction.
+		Duration 1 turns +2 per PSI.
+	Psychogenic Agility
+		Increase Agility by 1.
+		Duration 2 turns +2 per PSI.
+	Psychogenic Cyber-Affinity
+		Increase Cyber-Affinity by 1.
+		Duration 2 turns +2 per PSI.
+	Psychogenic Strength
+		Increase Strength by 1.
+		Duration 2 turns +2 per PSI.
+
+
+Tier 2:
+Require Psionic Ability 1
+Skill cost 3CM
+Usage cost: 2PP
+Avaiable skills:
+	Cerebro-Stimulated Regeneration
+		Heal 1HP per PSI. Usage Cost equals to PSI.
+	Electron Cascade
+		Recharge item by 1 energy point.
+		+1 additional energy point per PSI.
+	Energy Reflection
+		Provide 3 Energy DMG reduction.
+		Duration 2 turns +1 per PSI.
+	Neural Toxin-Blocker
+		Provide 5 Biological DMG reduction.
+		Duration 2 turns +1 per PSI.
+	Projected Pyrokinesis
+		DMG 2, Range 2, DMG type Fire.
+		+1DMG and +1Accuracy per PSI.
+	Psionic Hypnogenesis
+		Target (non-robotic creature) becomes calm and docile. If target is damaged, the effect is broken.
+		Duration 2 turns +1 per PSI.
+
+Tier 3:
+Require Psionic Ability 2
+Skill cost 4CM
+Usage cost: 3PP
+Avaiable skills:
+	Electron Suppression
+		Immobilize any robotic target.
+		Duration 1 turns +1 per PSI.
+	Imposed Neural Restructuring
+		Targeted (non-robotic) creature becomes hostile towards all non-humans. Any human damaging it ends the effect.
+		Duration 2 turns +1 per PSI.
+	Psycho-Reflective Aura
+		Provide 3 STD DMG reduction.
+		Duration 1 turns +1 per PSI.
+	Psionic Reflection Screen
+		Provide 3 PSI DMG reduction.
+		Duration 2 turns +1 per PSI.
+	Metacreative Barrier
+		Creates a wall of psionic force  directly in front of you, that lasts until it is destroyed.
+		Wall durability 10 + 10 per PSI. Wall is 2 squares long.
+		
+	*Immediate Psionic Shock
+		DMG 2, Accuracy 100%, -1DMG per 1 distance, DMG type Psi.
+		+2DMG per PSI.
+	OR
+	*Instantaneous Quantum Relocation
+		The first use of this power sets a “teleport marker”.
+		The second relocation use teleports you to it, and deletes the marker.
+		1 teleport marker per PSI. Means if you have 3 PSI, you can teleport 3 people at one.
+		They need to be close to you and it will cost 3 times more. 
+	
+
+
+COSTS:
+To unlock all Tiers 18CM
+Full Tier 1 12CM
+Full Tier 2 18CM
+Full Tier 3 24CM
+Everything 72
+
+
+
+
+
+---------------
+T1:
+Projected Cryokinesis
+Psycho-Reflective Screen
+Psychogenic Agility
+Psychogenic Cyber-Affinity
+
+*Kinetic Redirection
+*Remote Electron Tampering
+***Neuro-Reflex Dampening
+
+
+T2:
+Adrenaline Overproduction
+Cerebro-Stimulated Regeneration
+Psychogenic Strength
+Recursive Psionic Amplification
+
+*Anti-Entropic Field
+***Neural Decontamination
+***Localized Pyrokinesis
+
+
+T3:
+Electron Cascade
+Energy Reflection
+Projected Pyrokinesis
+Psionic Hypnogenesis
+
+***Molecular Duplication
+***Neural Toxin-Blocker
+***Enhanced Motion Sensitivity
+
+
+T4:
+Photonic Redirection
+Electron Suppression
+
+
+*Psychogenic Endurance
+*Remote Circuitry Manipulation
+***Molecular Transmutation
+***Cerebro-Energetic Extension
+***Remote Pattern Detection
+
+
+T5:
+Advanced Cerebro-Stimulated Regeneration
+Soma Transference
+Imposed Neural Restructuring
+Metacreative Barrier
+Psycho-Reflective Aura
+
+*Instantaneous Quantum Relocation
+*External Psionic Detonation
+
+
+

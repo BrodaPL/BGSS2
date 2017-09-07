@@ -1,0 +1,345 @@
+SERCHABLE OBJECTS
+Player can make 1 search action on objecs which are listed below.
+Search action takes 1 turn.
+Roll D6 dice to determine which items you found.
+
+Scientist dead body 1:
+	1: -
+	2: PsiHypo, Nanites 10 
+	3: MedHypo, Bullet x4, Wrench
+	4: MedHypo, Bullet x6, Nanites 5
+	5: Psionic Ability Hypo, PsiHypo, Nanites 10 
+	6: MedHypo, Psionic Implant, Battery, Nanites 15
+	Always: MedHypo, Nanites 10 
+
+Scientist dead body 2:
+	1: -
+	2: PsiHypo, Nanites 10 
+	3: MedHypo, Shell x2, Wrench
+	4: MedHypo, Bullet x6, Nanites 5
+	5: Psionic Ability Hypo, PsiHypo, Psionic Amplifier
+	6: PsiHypo, Psionic Amplifier, Nanites 10 
+	Always: MedHypo, PsiHypo, Nanites 5 
+
+Scientist dead body 3:
+	1: -
+	2: MedHypo,  Bullet x4 
+	3: MedHypo, Shell x2
+	4: Medkit, Battery, Nanites 5
+	5: Annelid healing organ, PsiHypo, Battery
+	6: PsiHypo, Laser Pistol, Nanites 10 
+	Always: Nanites 10 
+
+Scientist dead body 4:
+	1: -
+	2: MedHypo,  Bullet x4, Wrench 
+	3: MedHypo, Shell x2
+	4: MedHypo, Battery, Nanites 5
+	5: Annelid Psi organ, MedHypo, Nanites 5
+	6: PsiHypo, Pistol, Bullet x4, Nanites 5
+	Always: Bullet x2, Nanites 5 
+
+Scientist dead body 5:
+	1: Annelid healing organ, Nanites 5
+	2: MedHypo,  Bullet x4, Wrench 
+	3: MedHypo, Annelid Psi organ, Wrench 
+	4: MedHypo, Psionic Ability Hypo, Nanites 5
+	5: Annelid Psi organ, MedHypo, Nanites 5
+	6: MedHypo, Pistol, Bullet x4, Nanites 5
+	Always: PsiHypo, Psionic Amplifier
+	
+Scientist dead body 6:
+	1: Psionic Implant, PsiHypo, Psionic Amplifier
+	2: MedHypo,  Bullet x4, Wrench
+	3: Shell x2, Bullet x4,
+	4: MedHypo, Battery, Nanites 5
+	5: Annelid Psi organ, Prisms x4, Nanites 5
+	6:  Crystal Shard, Bullet x4, Nanites 5, PsiHypo,
+	Always: MedHypo, Nanites 5 
+	
+Scientist Officer dead body 1:
+	1: Crystal Shard, Annelid Psi organ, Worms x6
+	2: Viral Proliferator, Annelid healing organ, Worms x4
+	3: Advanced Psionic Amplifier, Battery, Annelid Psi organ
+	4: MedKit, Worms x6, Annelid Psi organ
+	5: Hazard Suit, MedKit, Worms x6, Surgical Key
+	6: Worm Skin, Worms x6, Annelid Psi organ
+	Always: MedHypo, PsiHypo, Random Implant, Nanites 20
+
+Scientist Officer dead body 2:
+	1: Crystal Shard, Annelid Psi organ, Worms x6, Nanites 10
+	2: Viral Proliferator, ICE Pick, Worms x4
+	3: Laser Rapier, Battery, PsiHypo, Nanites 5
+	4: Advanced Psionic Amplifier, Light Armor, PsiHypo, Nanites 25
+	5: Hazard Suit, Surgical Key, Worms x4, Nanites 25
+	6: Worm Skin, Worms x6, Psionic Ability Hypo, Nanites 5
+	Always: Annelid healing organ, Annelid Psi organ, Random Implant
+
+Scientist Officer dead body 3:
+	1: Crystal Shard, Annelid Psi organ, Worms x2
+	2: Viral Proliferator, Annelid healing organ, Worms x4
+	3: Laser Rapier, Battery, Annelid Psi organ
+	4: MedKit, Advanced Psionic Amplifier, Annelid Psi organ
+	5: Advanced Psionic Amplifier, MedHypo, Worms x4
+	6: Advanced Psionic Amplifier, Annelid Psi organ, Surgical Key
+	Always: MedKit, Random Implant, Nanites 5, Battery, Psionic Ability Hypo
+
+
+Engineer dead body 1:
+	1: -
+	2: Strength Hypo, Nanites 10 
+	3: MedHypo, Bullet x4,
+	4: MedHypo, Bullet x6, Nanites 5
+	5: Strength Hypo, Shell x2, Nanites 5 
+	6: MedHypo, PsiHypo, Battery, Nanites 10
+	Always: Wrench, Nanites 10 
+
+Engineer dead body 2:
+	1: -
+	2: Strength Hypo, Shell x2, Nanites 10 
+	3: MedHypo, Shell x4, Nanites 5
+	4: MedHypo, Bullet x6, Strength Implant
+	5: Strength Hypo, Shell x2, Nanites 5 
+	6: MedHypo, Hazard Suit, Nanites 10
+	Always: Wrench, Battery 
+
+Engineer dead body 3:
+	1: -
+	2: Strength Hypo, Shell x2, Nanites 10 
+	3: MedHypo, Battery, Nanites 5
+	4: MedHypo, Bullet x6, Strength Implant
+	5: Strength Hypo, Shell x4, Nanites 5 
+	6: Battery,  Nanites 10, Bullet x4
+	Always: Hazard Suit
+
+Engineer dead body 4:
+	1: Hazard Suit
+	2: Strength Hypo, Bullet x6, Random Grenade
+	3: PsiHypo, Battery, Nanites 5
+	4: MedHypo, Bullet x6, Random Grenade
+	5: Strength Hypo, MedHypo, Nanites 5 
+	6: Battery, Nanites 5, Maintance Tool, Prisms x2
+	Always: Wrench
+	
+Engineer dead body 5:
+	1: Hazard Suit
+	2: Pistol, Bullet x6, 
+	3: Light Armor, Battery, Shell x2
+	4: MedHypo, Bullet x6, Random Grenade
+	5: Pistol, MedHypo, Nanites 5, Bullet x4 
+	6: Nanites 5, Pistol, Bullet x2
+	Always: Strength Hypo, Nanites 10
+
+Engineer dead body 6:
+	1: Light Armor, Nanites 10
+	2: Pistol, Bullet x6, 
+	3: Light Armor, Battery, Shell x2
+	4: Battery, Shell x4, Random Grenade
+	5: Shotgun, MedHypo, Nanites 5
+	6: Nanites 5, Shotgun, Shell x2
+	Always: Shell x4, Nanites 5
+
+Engineer Officer dead body 1:
+	1: Light Armor, Bullet x4, Random Grenade
+	2: Pistol, Bullet x8, Prisms x2
+	3: Standard Armor, Battery, Shell x2
+	4: Battery, Shell x4, Random Grenade
+	5: Shotgun, PsiHypo, Shell x4, Strength Hypo
+	6: Shotgun, Shell x4, Worms x4, MedHypo
+	Always: Technical Implant, Battery, Nanites 20
+
+Engineer Officer dead body 2:
+	1: Technical Implant, Bullet x4, Random Grenade
+	2: Auto Repair Unit, Prisms x2
+	3: Technical Implant, Battery, Shell x2
+	4: Battery, Shell x4, Auto Repair Unit
+	5: Stasis Field Gemerator, Prisms x3
+	6: Shotgun, Shell x4, Worms x4, Maintance Tool
+	Always: Hazard Suit, Strength Hypo, MedKit
+
+Engineer Officer dead body 3:
+	1: Technical Implant, Battery, Worms x4
+	2: Auto Repair Unit, Prisms x2, Nanites 5
+	3: Technical Implant, Nanites 15, Shell x2
+	4: Prisms x2, Shell x4, Auto Repair Unit
+	5: Prisms x2, Random Implant, Nanites 10
+	6: MedHypo, PsiHypo, Maintance Tool, Nanites 5
+	Always: Stasis Field Gemerator, Prisms x2
+
+
+Millitary dead body 1:
+	1: -
+	2: Random Grenade
+	3: Agility Hypo, Shell x2
+	4: Light Armor, Nanites 5
+	5: Light Armor, Bullet x4
+	6: Standard Armor, MedHypo
+	Always: Pistol, Bullet x8
+
+Millitary dead body 2:
+	1: -
+	2: Agility Hypo
+	3: Bullet x4, Shell x2
+	4: Light Armor, Nanites 5
+	5: Light Armor, Shell x2
+	6: Random Grenade, MedHypo, Nanites 5
+	Always: Shotgun, Shell x4
+
+Millitary dead body 3:
+	1: -
+	2: Agility Hypo, Battery
+	3: Random Grenade, Bullet x2
+	4: Bullet x4, Nanites 5
+	5: Light Armor, Battery
+	6: Standard Armor, Bullet x4
+	Always: Laser Pistol, Battery
+
+Millitary dead body 4:
+	1: Light Armor, Bullet x2
+	2: Random Grenade, Nanites 5
+	3: Random Grenade, Bullet x4
+	4: Bullet x4, Shell x2, MedHypo
+	5: Light Armor, Agility Hypo, Nanites 5
+	6: Random Grenade, Bullet x4
+	Always: Grenade Luncher, Random Grenade
+
+Millitary dead body 5:
+	1: Agility Implant, Nanites 5
+	2: Random Grenade, Bullet x8
+	3: Random Grenade, Shell x4
+	4: Random Grenade, Battery
+	5: Random Grenade, Light Armor
+	6: Random Grenade, Standard Armor
+	Always: Laser Rapier, MedHypo, Agility Hypo
+
+Millitary dead body 6:
+	1: Pistol, Bullet x8
+	2: Shotgun, Shell x4
+	3: Grenade Luncher, Random Grenade
+	4: Laser Pistol, Battery
+	5: Stasis Field Gemerator, Prisms x4
+	6: Viral Proliferator, Worms x4
+	Always: Light Armor, MedHypo, Nanites 5
+
+Millitary Officer dead body 1:
+	1: Viral Proliferator, Worms x4
+	2: Assault Rifle, Bullet x16, Nanites 5
+	3: Assault Rifle, Bullet x12, Random Grenade
+	4: EMP Rifle, Battery, Battery, Random Grenade
+	5: Fusion Cannon, Prisms x8, Nanites 5
+	6: Annelid Launcher, Worms x8, Random Grenade
+	Always: Heavy Armor, Agility Hypo, Maintance Tool
+
+Millitary Officer dead body 2:
+	1: Viral Proliferator, Worms x4, Nanites 10
+	2: Assault Rifle, Bullet x14
+	3: EMP Rifle, Battery, Shell x4, Nanites 5
+	4: EMP Rifle, Battery, Battery, Random Grenade
+	5: Fusion Cannon, Prisms x6, Nanites 5
+	6: Annelid Launcher, Worms x6, Random Grenade
+	Always: Heavy Armor, MedKit, Random Implant
+
+Millitary Officer dead body 3:
+	1: Viral Proliferator, Worms x4, Nanites 5
+	2: Assault Rifle, Bullet x12, Random Grenade
+	3: EMP Rifle, Battery, Random Grenade
+	4: Fusion Cannon, Prisms x8
+	5: Fusion Cannon, Prisms x6, Random Grenade
+	6: Annelid Launcher, Worms x8, Random Grenade
+	Always: Power Armor, MedHypo, Battery
+
+
+Container 1:
+
+Container 2:
+
+Container 3:
+
+Container 4:
+
+Container 5:
+
+Container 6:
+
+Medical container:
+	1: -
+	2: Nanites 5
+	3: MedHypo, PsiHypo
+	4: MedHypo, Nanites 5
+	5: MedKit, PsiHypo
+	6: MedKit, Nanites 5
+	Always: MedHypo
+
+Millitary container:
+	1: -
+	2: Pistol, Bullet x8, Shell x2
+	3: Shotgun, Shell x4, Bullet x2
+	4: Grenade Luncher, Random Grenade, Bullet x2
+	5: Laser Pistol, Battery, Shell x2
+	6: Light Armor, Battery, Nanites 5, Bullet x2
+	Always: Bullet x2
+
+Secure Container 1:
+
+Secure Container 2:
+
+Secure Container 3:
+
+Secure Container 4:
+
+Secure Container 5:
+
+Secure Container 6:
+
+Secure Medical container:
+	1: PsiHypo
+	2: Nanites 10, PsiHypo
+	3: MedKit, PsiHypo
+	4: MedKit, PsiHypo, Nanites 5
+	5: MedKit, Nanites 15
+	6: MedKit, Surgical Key, Nanites 5
+	Always: MedHypo, MedHypo
+
+Secure Millitary container:
+	1: Pistol, Bullet x12, Random Grenade, Battery
+	2: Shotgun, Shell x6, Random Grenade, Prisms x2
+	3: Grenade Luncher, Random Grenade, Bullet x4
+	4: Laser Pistol, Battery, Random Grenade, Shell x2
+	5: Standard Armor, Bullet x10, Battery, Shell x2
+	6: Standard Armor, Shell x6, Random Grenade, Prisms x2
+	Always: Bullet x4, Shell x2
+
+Advanced Secoure container 1:
+
+Advanced Secoure container 2:
+
+Advanced Secoure container 3:
+
+Advanced Secoure container 4:
+
+Advanced Secoure container 5:
+
+Advanced Secoure container 6:
+
+Advanced Secure Medical container:
+	1: MedHypo
+	2: MedHypo, Nanites 5
+	3: MedHypo, Surgical Key
+	4: MedKit, MedHypo
+	5: MedHypo, Surgical Key, Nanites 5
+	6: MedKit, Surgical Key, MedHypo
+	Always: MedHypo, MedKit, PsiHypo
+
+Advanced Secure Millitary container:
+	1: Assault Rifle, Bullet x8
+	2: EMP Rifle, Battery, Nanites 5
+	3: Fusion Cannon, Prisms x8
+	4: Bullet x6, Shell x2, Battery, Prisms x2, Random Grenade
+	5: Heavy Armor, Random Grenade, Battery, Prisms x2
+	6: Power Armor, Shell x6, Bullet x8, Battery
+	Always: Bullet x6, Shell x2, Battery, Prisms x2, Random Grenade
+
+
+
+
+

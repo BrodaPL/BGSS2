@@ -1,0 +1,152 @@
+BASIC MECHANICS
+
+Hit Points(HP):
+Player hit points. If doped to 0 player dies.
+
+Psi Points(PP):
+Required for using Psionic powers.
+
+Action Points(AP):
+Required for doing any actions.
+
+
+
+Basic Haracter Statistics:
+Hit Points(HP): 10
+Psi Points(PP): 0
+Action Points(AP): 3
+
+Strength(STR): 0
+Endurance(END): 0
+Agility(AGI): 0
+Cybernetic Affinity(CYB): 0
+Psionic Ability(PSI): 0
+
+
+SHOOTING:
+Total accuracy for Standard Weapons type is: total_accuracy = (Std_weapons_skill)+(std_weapon_range)+(other_modifier)
+Chance to hit target is: hit_chance = (total_accuracy-distance_to_target)
+hit_chance is can be maximum of 6 and minimum of 0;
+Roll k6 dice to determine if target was hit: if dice result is greater than hit_chance it means shooter has missed.
+
+Accuracy example:
+Player has Standard weapons on Lvl 2 and Shotgun(range 3) so, overall accuracy is 5.
+If Hybrid is exacly 5 squares away from player has 5/6 chances to hit it.
+Roll k6 dice. If result is lesser than 6, it means target was hit.
+
+If Hybrid is closer than 5 quares pllayer has 100% to hit (or still 5/6? it need to be discussed).
+If Hybrid is 7 squares away from it means player has 3/6 chances to hit it.
+10 squares away means player can't hit target
+
+MELEE COMBAT:
+The same as shooting but Agility stat is used in place for weapon range.
+Player can use 1 AP point per enemy, to decrease their chance for succesful hit by 1.
+
+
+Acouraceing shot
+Player can use 1 additional AP point per shot, to increase his accuracy by 1.
+
+
+HACKING:
+Hacking strenght is: hacking_strenght = (hacking_skill)+(cybernetic_affinity)+(other_modifier)
+Hackable items has it difficulty level, Hacking skill requirements and nanites costs.
+
+Example:
+Player want to hack security terminal for temporary disable turrets and cameras.
+Security terminal require level 1 hacking skill. It difficulty is 5 and hacking it cost 3 nanites.
+Player has level 2 hacking skill and 1 cybernetic affinity, that means hacking_strenght = 3;
+So player roll a k6 dice and adding a result to his hacking_strenght. 
+If (hacking_strenght + k6_dice_result) will be greater then Security terminal difficulty it means hacking succes.
+Equals means failure witout damaging security station.
+Less means failure and security station will need repair before next atempt to hack.
+
+
+MODIFYING:
+Firs modification is required before second modification.
+The same as Hacking.
+Failure can broke item on the same rules as for hacking.
+
+
+REPEARING:
+The same as Hacking, but failure do nothing(you just lose nanites and time).
+
+
+RESEARCHING:
+Reserchable items has it's skill level and chemical requirements. It also need certain amount of time.
+
+Example: Hybrid organ has requirements of reasearch skill levl 1, basic chemicals and time 6 turns.
+Player has reasearch skill 1, and cybernetic_affinity 2.
+Reserach time is decreased by reasearch skill and cybernetic affinity. 6 - 1 -2 = 3.
+If player has basic chemicals and hybrid organ, he will need 2 turns to reserach it.
+***Minimum time for compleate reserach is 2 turns.***
+
+
+Inventory size:
+Each player have place for 1 weapon, 1 armor and 2 inventory slots.
+Each weapon and large item takes 1 inventory slot.
+Each armor takes 2 inventory slots if not equiped.
+Each exceeded inventory slot reduces Player Action Points by 1.
+
+
+Player death:
+
+On Square where player has died should be placed dead body coin which contain all player items.
+If daying player has enought nanites, then he will spawn on nerest Quantum Bio-Reconstruction Machine.
+
+Quantum Bio-Reconstruction Machine:
+Reconstruction costs 15N.
+Can be broken.
+Require skill 2, Nanite 2, Diffiulty 5.
+Must be actived before use.
+Activation time 2AP.
+
+
+
+DAMAGE TYPES:
+Standard
+Energy
+Fire
+Psi
+Biological
+
+
+
+Creating Character:
+Choose Class training card, pick one bonus from each training year.
+
+
+
+Deploying creatures and Creature Points:
+Every Creature has it's Creature points cost. Game Master pays BCP and MCP to deploy
+creature of his choice. Every threat level has creatures amount and type restrictions. 
+
+Creatures can NOT be deployed at field of players view, nor in same room and closer 
+than 5 squares to any of player. 
+
+Before game start, Game Master revice some BCP and MCP (amount depends on scenario)
+for deploy some creatures (which one can be deployed is defined by scenario).
+Then, after game starts, Game Master recive Creature Points every 2 turns - which amount
+depends on current Threat Level. Game Master also recive 1 BCP per 2 turns by every 5 alive 
+eggs(of any kind) deployed on map.
+Game Master also recive BCP and MCP from some Action Cards.
+
+
+
+Setting up game:
+Players and GM choose scenario and then they going by it's instruction:
+1. Createing characters and chose or get starting equipment and skills.
+2. Placing pieces of map together.
+3. Plae every items(doors, serchable objects, stationary items) on the map.
+4. GM placeing firsts monsters.
+5. Game starts by plyer turn.
+
+
+Gameplay:
+Players and GM playing their turns one by another.
+For every 2 turns Action Card is drawen and GM gains Creature points.
+For every 4 turns Threat level is increasing.
+Game finishs when players or GM realizes their targets which are defined by scenario or
+every player is dead and Bio-Reconstruction is not possible.
+
+
+

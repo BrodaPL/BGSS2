@@ -1,0 +1,28 @@
+STATS:
+Levl 1: 3CM
+Levl 2: 6CM
+Levl 3: 9CM
+Levl 4: -CM reachable by implants, hypos or psionic skills.
+Levl 5: -CM reachable by implants, hypos or psionic skills.
+5 is maximum level.
+
+Strength(STR):
++1DMG in melee combat
++1 inventory slot;
+
+Endurance(END):
++3HP
+
+Agility(AGI):
++1AP
+
+Cybernetic Affinity(CYB):
++1 to all tech skills effectivity
+
+Psionic Ability(PSI):
++5PP
++1 to psionic skill effectivity
+
+COSTS:
+One on full 18CM.
+All on full 90CM.

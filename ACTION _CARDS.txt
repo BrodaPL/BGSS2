@@ -1,0 +1,166 @@
+ACTION CARDS 
+
+Good 29
+Neutral 8
+Bad 41
+All 78
+
+
+
+1x B
+-Its getting hot.
+Increase Threat Level by 1.
+
+6x G
+-Decrease threat level.
+Decrease Threat Level by 1.
+
+3x G
+-We can make it
+Decrease Threat Level by 2.
+
+1x G
+-Easy mode.
+Decrease Threat Level by 3.
+
+2x B
+-Intense Action
+Increase Threat Level by 3 for 2 turns. 
+
+3x G
+-Silence...
+Decrease Threat level by 3 for 4 turns.
+
+6x G
+-Stable situatuin
+Threat level is not increasing for 4 next turns.
+
+5x N
+-Nothing special
+Nothing special happend.
+
+x4 B
+-Click...
+Breaks weapon holded by one player. Game Master can choose which one.
+
+x1 B
+-Metacreative Barrier
+Create one 3 squares wide Metacreative Barrier(30HP) anywhere you want.
+
+x2 B
+-Fatigue of the material
+Break one element on board. It can be repaired: Require skill 1, Nanite 2, Diffiulty 5
+
+x1 B
+-Serious fatigue of the material
+Break one element on board. It can be repaired: Require skill 2, Nanite 3, Diffiulty 7
+
+x2 B
+-Lights off
+Turn lights off in room of you choice for 2 turns.
+
+x1 B
+-Darknes
+Permanently destroys lights in room of you choice.
+
+x2 B 
+-Psionic scream
+At turn when card is played, all players instantly lose 1AP.
+
+x1 B
+-Alarm!
+Activate security alerm for 12 turns. Can be deactived by hacking any security station.
+
+x2 G
+-Psionic interference
+All creatures on the board(not players), has 2AP less for 2 turns.
+
+x1 G
+-Good coindence
+Players can see 3 next action cards and move one to the bottom of the deck.
+
+x1 B
+-Bad coindence
+Game Master can see 3 next action cards and move one to the bottom of the deck.
+
+x2 N
+-Double action
+Throw this card away, and immediately draw 2 action cards at once.
+
+x1 N
+-Silence before storm
+Throw this card away, and at next time draw 3 action cards instead of 1.
+
+x2 G
+-Chance to survie
+Remove all Game Master annelid creature points.
+
+x2 G
+-Chance to survie
+Remove all Game Master mechanical creature points.
+
+x1 G
+-Chance to survie
+Remove ALL Game Master creature points.
+
+x3 B
+-Minor Mechanical threat
+Game Master gain 2 mechanical creature points.
+
+x3 B
+-Minor Annelid threat
+Game Master gain 2 annelid creature points.
+
+x2 B
+-Mechanical threat
+Game Master gain 5 mechanical creature points.
+
+x2 B
+-Annelid threat
+Game Master gain 5 annelid creature points.
+
+x1 B
+-Greater Mechanical threat
+Game Master gain 10 mechanical creature points.
+
+x1 B
+-Greater Annelid threat
+Game Master gain 10 annelid creature points.
+
+x2 B
+-Not yet
+Playing this card Game Master can extend one player action for 1 turn.
+Only actions counted in turns can be extended (eg. Research, using Medical Units, opening blast dors)
+
+x2 B
+-Arachnid Egg
+Game Master can instantly place Arachnid Egg on the board.
+
+x1 B
+-Arachnid Eggs
+Game Master can instantly place two Arachnid eggs on the board.
+
+x2 B
+-Swarm Egg
+Game Master can instantly place Swarm Egg on the board.
+
+x1 B
+-Swarm Eggs
+Game Master can instantly place two Swarm eggs on the board.
+
+x1 B
+-Pipe hybrid
+Game Master can instantly place Pipe hybrid on the board.
+
+x1 B
+-Shotgun hybrid
+Game Master can instantly place Shotgun hybrid on the board.
+
+x1 B
+-Double Deploy
+If this card is played, Game Master can instantly place two creatures at once on the board.
+
+x2 G
+-Nope.
+When Game Master is using action card, players can play "Nope." card, to instantly discard Game Master card.
+

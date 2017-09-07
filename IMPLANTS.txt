@@ -1,0 +1,36 @@
+IMPLANTS
+
+Consumes 1 of their Energy per turn while active.
+All implants ara small size.
+Activation do not cost AP points.
+
+Strenght Implant
+Provides +1 Strenght bonus while active.
+Capacity: 8 Energy
+Research: ---
+
+Agility Implant
+Provides +1 Agility bonus while active.
+Capacity 8 Energy
+Research: ---
+
+Technical Implant
+Provides +1 Cybernetic Affinity bonus while active.
+Capacity 8 Energy
+Research: ---
+
+Psionic Implant
+Provides +1 Psionic Ability bonus while active.
+Capacity 8 Energy
+Research: ---
+
+Worm Mind
+While active, 1 of every 3 damage points is subtracted from PP instead of HP.
+Capacity 8 Energy
+Research: Require skill 2, Chemicals, time 6.
+
+Worm Hearth
+While active, regenerates 1 HP every turn.
+Capacity 8 Energy
+Research: Require skill 3, Chemicals, Rare Chemicals time 7.
+

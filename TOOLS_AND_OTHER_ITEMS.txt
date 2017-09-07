@@ -1,0 +1,53 @@
+TOOLS AND OTHER ITEMS
+
+Common chemicals
+Size: Large
+Description: needed for research.
+
+Chemicals
+Size: Large
+Description: needed for research.
+
+Rare chemicals
+Size: Large
+Description: needed for research.
+
+Acces card
+Size: Small
+Description: Needed for open lock.
+
+Dead Power Cell
+Size: Large
+Description: Power Cell with no energy in it. Can be charged in Energy Recharging Station.
+
+Charged Power Cell
+Size: Large
+Description: Can provide power supply for some machinery.
+
+Audiolog
+Size: Small
+Description: Can cointain some useful data.
+
+Circuit Board
+Size: Large
+Description: Can be to baypass some systems.
+
+Quantum Simulation Chip
+Size: Small
+Description: Can be to baypass some systems.
+
+ToxinA
+Size: Large
+Description: Can be inserted into an environment control panel.
+
+Surgical Key
+Size: Large
+Description: Can be inserted into inactive medical unit.
+
+Sympathetic Resonator
+
+
+
+
+
+

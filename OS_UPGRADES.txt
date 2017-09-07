@@ -1,0 +1,44 @@
+OS UPGRADES
+
+Cybernetically Enhanced:
+Allows the player to use two Implants instead of one.
+
+Lethal Weapon;
+Increases damage of melee weapons by 1.
+
+Scavenger:
+If player perform search action and found nothing, he can perform one more search action.
+
+Pharmo-Friendly:
+Provides extra 50% benefit of all Hypos.
+
+Replicator Expert:
+All items in Replicators cost 1N less and 1N less for every 10N base cost.
+
+Sharpshooter:
+Increases the accuracy of ranged weapons by 1.
+
+Speedy:
+If player perform move action, he can move 1 additional square per turn.
+
+Tank:
+Increases the maximum health by 3 hitpoints.
+
+Tinker:
+Reduces the nanite cost of upgrade and repair attempts by 2 (minimum cost is capped at 1).
+
+Careful Hacking:
+Reduces the nanite cost of hacking attempts by 1 (minimum cost is capped at 1) 
+and give 50% chance to not break or start alarm on failure.
+
+Fast-Loader:
+Every reload action cost 1 action point less.
+
+Medicaly Trained:
+Every Hypo or MedKit usage, cost 1 action point less.
+
+Cyber-Assimilation
+Allows player to extract a Diagnostic/Repair Module from a destroyed robot.
+
+Pack-Rat
+Adds 3 inventory slots.

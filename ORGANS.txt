@@ -1,0 +1,41 @@
+ORGANS
+
+Arachnid organ
+Size: Small
+Research: Require skill 2, Chemicals, time 6
+When researched every damage done to Adult Arachnids and Infant Arachnids is increased by 1.
+
+Healing Organ
+Size: Small
+Research: Require skill 1, Common Chemicals, time 5
+Can be consmed to restore HP.
+
+Psi Organ
+Size: Small
+Research: Require skill 2, Chemicals, time 7
+Can be consmed to restore PP.
+
+Hybrid Organ
+Size: Large
+Research: Require skill 1, Common Chemicals, time 4
+When researched every damage done to Hybrids is increased by 1.
+
+Midwife organ
+Size: Large
+Research: Require skill 2, Chemicals, time 6
+When researched every damage done to Midwifes is increased by 1.
+
+Monkey brain
+Size: Small
+Research: Require skill 1, Common Chemicals, time 4
+When researched every damage done to Monkeys and Red Monkeys is increased by 1.
+
+Psi-Reaver organ
+Size: Small
+Research: Require skill 3, Rare Chemicals time 8
+When researched every damage done to Psi-Reaver and Greater Psi-Reaver is increased by 1.
+
+Rumbler organ
+Size: Large
+Research: Require skill 3, Chemicals, Common Chemicals, time 9
+When researched every damage done to Rumblers is increased by 1.
