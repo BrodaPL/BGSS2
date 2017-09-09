@@ -1,44 +1,55 @@
-STATIONARY DEVICES
+STATIONARY DEVICES		Repeir: Require skill 3, Nanite 2, Diffiulty 6
 
-OS Upgrade Unit
+O/S Upgrades Unit
+Use time: 1 turn
+Allow player to acquire one O/S Upgrade card.
 
-*Skill/stats upgrade units
+Skill/stats upgrade units
+Use time: 1 turn
+Allow player to exchange Cyber Modules for skills and stats.
 
 Replicator
 Hacking: Require skill 1, Diffiulty 4, Nanite 2
 Hacking succes: All items in cost 1N less and 1N less for every 10N base cost and change avaiable items.
+Repeir: Require skill 2, Nanite 2, Diffiulty 5
 
 Door lock
 Hacking: Require skill 2, Diffiulty 5, Nanite 1
 Hacking succes: Opens dors.
+Repeir: Require skill 1, Nanite 2, Diffiulty 4
 
 Advanced Door lock
 Hacking: Require skill 3, Diffiulty 7, Nanite 2
 Hacking succes: Open dors.
 Hacking failure: Turn on alarm.
+Repeir: Require skill 2, Nanite 2, Diffiulty 5
 
 Security Door lock
 Hacking: -
 Info: Can be opened only by Acces card.
 
-Secourity station
+Security station
 Hacking: Require skill 1, Diffiulty 5, Nanite 3
 Hacking succes: Shut down alarm(if is active), security turrets and cameras for 12 turns. Decrease threat level by 2.
 Hacking failure: Turn on alarm.
+Repeir: Require skill 2, Nanite 2, Diffiulty 6
 
-Advanced Secourity station
+Advanced Security station
 Hacking: Require skill 3, Diffiulty 8, Nanite 4
 Hacking succes: Shut down alarm(if is active), security turrets and cameras for 12 turns. Decrease threat level by 3.
 Hacking failure: Turn on alarm.
+Repeir: Require skill 3, Nanite 2, Diffiulty 7
 
 Secoure container
 Hacking: Require skill 1, Diffiulty 5, Nanite 1
 Hacking succes: Opens container.
+Repeir: Require skill 2, Nanite 2, Diffiulty 6
 
 Advanced Secoure container
 Hacking: Require skill 3, Diffiulty 7, Nanite 2
 Hacking succes: Opens container.
 Hacking failure: Destroy container Causing 8 Standard damage, AOE 2.
+Repeir: -
 
 Power Cell Slot
 Hacking: -
@@ -47,6 +58,7 @@ Info: Charged power cell can be inserted into it to complete some mission object
 Energy Recharging Station
 Hacking: -
 Info: Recharge all items owned by player. Usage time 1 turn.
+Repeir: Require skill 2, Nanite 2, Diffiulty 5
 
 Surgical Unit
 Hacking: -

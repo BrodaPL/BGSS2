@@ -10,7 +10,7 @@ Scavenger:
 If player perform search action and found nothing, he can perform one more search action.
 
 Pharmo-Friendly:
-Provides extra 50% benefit of all Hypos.
+Provides extra 30% benefit from all Hypos.
 
 Replicator Expert:
 All items in Replicators cost 1N less and 1N less for every 10N base cost.
@@ -29,7 +29,7 @@ Reduces the nanite cost of upgrade and repair attempts by 2 (minimum cost is cap
 
 Careful Hacking:
 Reduces the nanite cost of hacking attempts by 1 (minimum cost is capped at 1) 
-and give 50% chance to not break or start alarm on failure.
+and give 50% chance to not break hacked item or start alarm on failure.
 
 Fast-Loader:
 Every reload action cost 1 action point less.

@@ -1,0 +1,52 @@
+REPLICATORS OFFERS
+useless items: Chips  Soda  Juice  Champagne  Vodka  Liquor  Cigarettes
+
+Items in brackets are avaiable after succesful hacking.
+
+Replicator 1:
+	1: Chips(Bullet x1)
+	2: Soda(Portable battery)
+	3: Juice(Explosive grenade)
+	4: Champagne(Auto Repair Unit)
+	5: Liquor(Agility Hypo)
+	6: Cigarettes (Med Hypo)
+
+Replicator 2:
+	1: Chips (Auto Repair Unit)
+	2: Vodka (Prism x1)
+	3: Bullets x2
+	4: Portable battery
+	5: Psi Hypo
+	6: Med Hypo
+	
+Replicator 3:
+	1: Soda (Bullet x1)
+	2: Liquor (Psi Hypo)
+	3: Maintance Tool
+	4: Shell x1
+	5: Med Hypo
+	6: Energy grenade
+	
+Replicator 4:
+	1: Juice (Fusion grenade)
+	2: Cigarettes (MedKit)
+	3: Psionic Ability Hypo
+	4: Shells x2
+	5: Portable battery
+	6: Auto Repair Unit
+	
+Replicator 5:
+	1: Soda (Med Hypo)
+	2: Champagne (Maintance Tool)
+	3: MedKit
+	4: Prism x1
+	5: Shell x1
+	6: Bullet x1
+	
+Replicator 6:
+	1: Chips (Prisms x2)
+	2: Vodka (Portable battery)
+	3: Incredinary grenade 
+	4: Bullet x1
+	5: Psi Hypo
+	6: Strength Hypo

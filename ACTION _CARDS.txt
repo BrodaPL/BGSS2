@@ -2,8 +2,8 @@ ACTION CARDS
 
 Good 29
 Neutral 8
-Bad 41
-All 78
+Bad 43
+All 80
 
 
 
@@ -163,4 +163,10 @@ If this card is played, Game Master can instantly place two creatures at once on
 x2 G
 -Nope.
 When Game Master is using action card, players can play "Nope." card, to instantly discard Game Master card.
+
+x2 B
+-Security Lockdown
+Activate all turrets and decreaase Security Cameras alarm initiation time by 1 turn.
+
+
 

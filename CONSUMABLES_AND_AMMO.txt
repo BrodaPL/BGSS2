@@ -43,7 +43,7 @@ Cons:
 	Duration: 5 turns
 	Nanites cost: 14
 	
-	Portable battery x1
+	Portable battery
 	Size: Small
 	Effect: Recharge 1 item to it's full energy.
 	Usage: 6AP

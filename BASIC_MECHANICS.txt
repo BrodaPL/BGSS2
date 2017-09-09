@@ -50,6 +50,7 @@ Player can use 1 additional AP point per shot, to increase his accuracy by 1.
 HACKING:
 Hacking strenght is: hacking_strenght = (hacking_skill)+(cybernetic_affinity)+(other_modifier)
 Hackable items has it difficulty level, Hacking skill requirements and nanites costs.
+Hacking takes 2 turns.
 
 Example:
 Player want to hack security terminal for temporary disable turrets and cameras.
@@ -62,13 +63,15 @@ Less means failure and security station will need repair before next atempt to h
 
 
 MODIFYING:
-Firs modification is required before second modification.
 The same as Hacking.
 Failure can broke item on the same rules as for hacking.
+Firs modification is required before making second modification.
+Hacking takes 2 turns.
 
 
 REPEARING:
 The same as Hacking, but failure do nothing(you just lose nanites and time).
+Hacking takes 2 turns.
 
 
 RESEARCHING:
@@ -89,7 +92,6 @@ Each exceeded inventory slot reduces Player Action Points by 1.
 
 
 Player death:
-
 On Square where player has died should be placed dead body coin which contain all player items.
 If daying player has enought nanites, then he will spawn on nerest Quantum Bio-Reconstruction Machine.
 
@@ -111,8 +113,34 @@ Biological
 
 
 
+CALCULATING DAMAGE AMOUNT:
+Every attack has specific damage type.
+Every armor or enemy has its own specyfic resistances.
+Taken damage is reduced by resistance of the same type.
+MINIMUM AMOUNT OF DAMAGE IS CAPPED AT 1.
+Notation " 3x 2 Standard " tells  that, there are 3 shots of 2 damage each (of standard damage type).
+
+Examples:
+Player is shooting with Laser Pistol to Protocol Droid:
+Laser Pistol has damage of 2 and Protocol Droid has -2 Energy resistance.
+
+damage		resistane	result
+	2 	- 	(-2) 		= 4 	so Protocol Droid looses 4 hit points.
+
+Hybrid shoot with shotgun to player equipped with Heavy Armor:
+Shotgun has 3 shots 2 damage each and Heavy Armour has 3 Standard resistance.
+
+damage		resistane	result
+	2 	- 	(3) 		= 1 	1 because minimum amount of damage is capped at 1.
+There are 3 shots, so player looses 3 hit points.
+
+
+
+
+
 Creating Character:
 Choose Class training card, pick one bonus from each training year.
+
 
 
 
@@ -132,6 +160,7 @@ Game Master also recive BCP and MCP from some Action Cards.
 
 
 
+
 Setting up game:
 Players and GM choose scenario and then they going by it's instruction:
 1. Createing characters and chose or get starting equipment and skills.
@@ -139,6 +168,7 @@ Players and GM choose scenario and then they going by it's instruction:
 3. Plae every items(doors, serchable objects, stationary items) on the map.
 4. GM placeing firsts monsters.
 5. Game starts by plyer turn.
+
 
 
 Gameplay:
@@ -149,12 +179,28 @@ Game finishs when players or GM realizes their targets which are defined by scen
 every player is dead and Bio-Reconstruction is not possible.
 
 
+
 Light Level:
 -Dark rooms
+Dark rooms are marked by "Dark room token"
+Shooting accouracy is reduced by 2 points. 
+
 -Full dark room / Broken lights
+Fully dark rooms are marked by "No light token"
+Shooting accouracy is reduced by 5 points.
+Moving takes 2 times more AP.
 
 
-Cameras and secourity alarms:
+
+
+Cameras:
+Cameras have alarm initiation time of 3 turns.
+Every time when when player is in Camera field of view alarm initiation time is decreased by 1 per turn.
+Security alarm is triggered on when camera initiation time drops to 0.
+Camera initiation time increase by 1 per turn, when there are no player in field of view.
+
+-Security Alarms
+
 
 
 
@@ -164,9 +210,8 @@ Cyber Modules and Skills:
 -buying skills and stats (two conceptions)
 
 
-Long Actions:
--Hacking
--modiffication
+
+Actions:
 -searhing
 -opening doors
 -acquireing Pipe(weapon)
@@ -177,6 +222,7 @@ Types of scenarios:
 -Players vs Game Master
 -Players in "SinglePlayer" scenario (without GM).
 -Roleplaying game where GM is not in opossition to players.
+
 
 
 Advanced Mechanics:

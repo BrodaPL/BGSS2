@@ -272,7 +272,7 @@ Require skill 2, Nanite 4, Diffiulty 5
 	
 
 Shotgun
-	DMG 2 x3
+	DMG 2 x3 
 	Range 3
 	Reload 5AP
 	Capacity 4 Shells
