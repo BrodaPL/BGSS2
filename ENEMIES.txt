@@ -282,6 +282,8 @@ Security Slug Turret
 	Always drop:  -
 	Creature points cost: Mechanical: - Biological: -
 	Hacking: Require skill 2, Diffiulty 6, Nanite 3
+	It need to be activated before start shooting.
+	Activation time 1 turn. Activate automaticly if enemy is in field of view.
 	
 Security Laser Turret
 	HP: 12
@@ -293,6 +295,8 @@ Security Laser Turret
 	Always drop:  -
 	Creature points cost: Mechanical: - Biological: -
 	Hacking: Require skill 2, Diffiulty 5, Nanite 2
+	It need to be activated before start shooting.
+	Activation time 1 turn. Activate automaticly if enemy is in field of view.
 	
 Security Camera
 	HP: 1

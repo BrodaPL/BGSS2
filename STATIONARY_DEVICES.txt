@@ -1,5 +1,9 @@
 STATIONARY DEVICES
 
+OS Upgrade Unit
+
+*Skill/stats upgrade units
+
 Replicator
 Hacking: Require skill 1, Diffiulty 4, Nanite 2
 Hacking succes: All items in cost 1N less and 1N less for every 10N base cost and change avaiable items.

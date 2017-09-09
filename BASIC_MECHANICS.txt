@@ -149,4 +149,40 @@ Game finishs when players or GM realizes their targets which are defined by scen
 every player is dead and Bio-Reconstruction is not possible.
 
 
+Light Level:
+-Dark rooms
+-Full dark room / Broken lights
+
+
+Cameras and secourity alarms:
+
+
+
+Cyber Modules and Skills:
+-CM cost desciption
+-Acquireing CM's (rewards from missions)
+-buying skills and stats (two conceptions)
+
+
+Long Actions:
+-Hacking
+-modiffication
+-searhing
+-opening doors
+-acquireing Pipe(weapon)
+
+
+
+Types of scenarios:
+-Players vs Game Master
+-Players in "SinglePlayer" scenario (without GM).
+-Roleplaying game where GM is not in opossition to players.
+
+
+Advanced Mechanics:
+-More round "cricles of range".
+-More advanced combat: walk/sprint, stand/crouch/[kladzenie sie na podlodze], shooting behind cover. 
+
+
+
 
