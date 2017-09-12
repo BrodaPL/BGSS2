@@ -4,7 +4,7 @@ O/S Upgrades Unit
 Use time: 1 turn
 Allow player to acquire one O/S Upgrade card.
 
-Skill/stats upgrade units
+*Upgrade Units
 Use time: 1 turn
 Allow player to exchange Cyber Modules for skills and stats.
 

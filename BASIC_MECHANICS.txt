@@ -200,15 +200,28 @@ Security alarm is triggered on when camera initiation time drops to 0.
 Camera initiation time increase by 1 per turn, when there are no player in field of view.
 
 -Security Alarms
+Alarm duration 12 turns.
+During Security Alarm Game Master recive additional 1/2 Creature Points of Current Threat Level per turn, rounded up.
+Example: Threat level is 5, so BCP 3 /2  =2(rounded up) and MCP 2 /2 =1, thats mean GM recive 2 BCP and 1 MCP per turn.
+During Security Alarm Threat Level IS NOT INCREASING.
+All security turrets are actived immiedietly.
+*****Every Crature deployed during Secourity Alarm immmiedietly know players positions.
+Secourity Alarm can be deactived by hacking any Security station or Advanced Security station.
 
 
 
 
 Cyber Modules and Skills:
--CM cost desciption
--Acquireing CM's (rewards from missions)
--buying skills and stats (two conceptions)
-
+-To acquire new skills or increase level of already owned, players must pay specified amount of Cyber Modules(CM's).
+The same for Stats, Psionic Tiers and Psionic Skills. 
+-Some Cyber Modules are given to the player at the start of the game in amount defined by scenario, Training Card
+or depends on amount of players.
+CM are also acquired by players during game by acompleating scenariom objectives.
+Buying skills and stats:
+-Conception 1:
+	Players can spend their CM's immiediately whenever they wants.
+-Conception 2:
+	Players can spend their CM's only in front of specific stationary devices called "Upgrade Units".
 
 
 Actions:
