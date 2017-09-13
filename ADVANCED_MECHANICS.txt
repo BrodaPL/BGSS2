@@ -1,0 +1,11 @@
+ADVANCED MECHANICS
+
+Advanced Mechanics:
+-More round "cricles of range".
+-More advanced combat: walk/sprint, stand/crouch/prone, shooting behind cover.
+-covers(boxes, corners, walls, desks)
+-sneaking 
+
+
+
+

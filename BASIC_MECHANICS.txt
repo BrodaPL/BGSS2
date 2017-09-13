@@ -225,9 +225,21 @@ Buying skills and stats:
 
 
 Actions:
--searhing
+Searching:
+	If player is in front of serchable object (like dead body or container) he can perform searching action to find some loot.
+	Player is doing 2 dice rolls. First determines from which set, loot will be drawen. Second determines which set of items will be acquired. 
+	Example:
+		Player perform searching action in front of Engineer dead body. Result of first roll is 5, that means, loot will be drawen from "Engineer dead body 5" set.
+		Result of second roll is 1, that means player found "Hazard Suit" and loots from field "Always" (in this case these are "Strength Hypo" and 10 Nanites).
+
+	Search action takes 1 turn. 
+	Serchable objects diseapear after 1 searching action (exception if player has Scavenger O/S Upgrade).
+	If there is only 3 sets of serchable object type, then devide result of secnd roll by 2 and round up result.
+	If there is onlu 1 set, then first dice roll is skipped.
+
 -opening doors
 -acquireing Pipe(weapon)
+
 
 
 
@@ -235,13 +247,5 @@ Types of scenarios:
 -Players vs Game Master
 -Players in "SinglePlayer" scenario (without GM).
 -Roleplaying game where GM is not in opossition to players.
-
-
-
-Advanced Mechanics:
--More round "cricles of range".
--More advanced combat: walk/sprint, stand/crouch/[kladzenie sie na podlodze], shooting behind cover. 
-
-
 
 
