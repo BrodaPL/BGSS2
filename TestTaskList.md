@@ -1,0 +1,5 @@
+- [ ] a normal task list item
+- [ ] list syntax required
+- [ ] normal **formating**, @mentions, #1234 refs
+- [ ] incomplete
+- [x] cpmpleted
