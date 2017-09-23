@@ -5,3 +5,4 @@
 - [x] cpmpleted
 
 - [x] configuration of my inteliJ
+- [ ] configuration made by Spider
