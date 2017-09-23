@@ -3,3 +3,5 @@
 - [ ] normal **formating**, @mentions, #1234 refs
 - [ ] incomplete
 - [x] cpmpleted
+
+- [x] configuration of my inteliJ
