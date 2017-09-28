@@ -9,7 +9,7 @@ Swarm
 	Creature points cost: Mechanical: - Biological: -
 	Info: Can be damaged only by non direct AOE hit. Loses 1HP every trun.
 	
-*Annelid Egg
+Annelid Egg
 	HP: 4
 	AP: -
 	Range: -
@@ -41,7 +41,7 @@ Annelid Arachnid Egg
 	Creature points cost: Mechanical: - Biological: 2
 	Info: Realease Swarm when player is 2 squares away.
 	
-Annelid Black Egg
+*Annelid Black Egg
 	HP: 4
 	AP: -
 	Range: -
