@@ -34,3 +34,152 @@ While active, regenerates 1 HP every turn.
 Capacity 8 Energy
 Research: Require skill 3, Chemicals, Rare Chemicals time 7.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------
+TO PASTE:
+
+(BankGothic Lt BT, size22)
+Strenght booster
+
+
+(BankGothic Lt BT, size12)
+Provides
++1 Strength
+bonus while
+active.
+
+
+Capacity:
+	8 Energy
+
+
+Research: ---
+
+
+
+---------------------------------
+
+(BankGothic Lt BT, size22)
+Agility booster
+
+
+(BankGothic Lt BT, size12)
+Provides
++1 Agility
+bonus while
+active.
+
+
+Capacity:
+	8 Energy
+
+
+Research: ---
+
+
+-----------------------------------------
+
+(BankGothic Lt BT, size22)
+Technical booster
+
+
+(BankGothic Lt BT, size12)
+Provides
++1 Cybernetic Affinity
+bonus while
+active.
+
+
+Capacity:
+	8 Energy
+
+
+Research: ---
+
+
+-----------------------------------
+
+(BankGothic Lt BT, size22)
+Psionic booster
+
+
+(BankGothic Lt BT, size12)
+Provides
++1 Psionic Ability
+bonus while
+active.
+
+
+Capacity:
+	8 Energy
+
+
+Research: ---
+
+
+
+-----------------------------------
+
+
+(BankGothic Lt BT, size22)
+Worm Mind
+
+
+(BankGothic Lt BT, size12)
+While active,
+1 of every 3 damage
+points is subtracted
+from PP instead of HP.
+
+
+
+Capacity:
+    8 Energy
+
+
+Research:
+Require skill 2,
+Chemicals,
+time 6.
+
+
+
+
+-------------------------------------
+
+(BankGothic Lt BT, size22)
+Worm Hearth
+
+
+(BankGothic Lt BT, size12)
+While active,
+regenerates
+1 HP every turn.
+
+
+
+Capacity:
+    8 Energy
+
+
+Research:
+Require skill 3,
+Chemicals,
+Rare Chemicals,
+time 7.
+
+
