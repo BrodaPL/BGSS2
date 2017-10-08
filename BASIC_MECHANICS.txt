@@ -244,13 +244,14 @@ Searching:
 
 Opening doors:
     Standatd Doors:
-        Opening is perfomed automatically when any player is in front of them.
+        Opening is perfomed automatically when any player or any creature is in front of them.
         Opening takes 1 turn.
     Door with lock, Advanced lock or Seurity lock:
         Using lock mechanism require succesful hacking, having security card(Seurity lock)
         or other action(could depends on Scenario).
         Using lock mechanism takes takes 2AP.
         Opening takes 1 turn.
+        Once unlocked, they can be opened by any creature.
 
 
 

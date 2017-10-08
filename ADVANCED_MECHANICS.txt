@@ -6,6 +6,7 @@ Advanced Mechanics:
 -covers(boxes, corners, walls, desks)
 -sneaking
 -throwing grenades
+-blocking doors by players
 
 
 
