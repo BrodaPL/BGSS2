@@ -2,8 +2,8 @@ ACTION CARDS
 
 Good 29
 Neutral 8
-Bad 43
-All 80
+Bad 45
+All 82
 
 
 
@@ -43,8 +43,12 @@ x4 B
 -Click...
 Breaks weapon holded by one player. Game Master can choose which one.
 
-x1 B
+x2 B
 -Metacreative Barrier
+Create one 2 squares wide Metacreative Barrier(15HP) anywhere you want.
+
+x1 B
+-Strong Metacreative Barrier
 Create one 3 squares wide Metacreative Barrier(30HP) anywhere you want.
 
 x2 B
