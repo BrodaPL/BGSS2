@@ -145,11 +145,16 @@ Choose Class training card, pick one bonus from each training year.
 
 
 Deploying creatures and Creature Points:
+GM acquire Creature points at start of his turn.
 Every Creature has it's Creature points cost. Game Master pays BCP and MCP to deploy
 creature of his choice. Every threat level has creatures amount and type restrictions. 
 
 Creatures can NOT be deployed at field of players view, nor in same room and closer 
-than 5 squares to any of player. 
+than 5 squares to any of player.
+
+Additionaly Eggs need at last one square space between each.
+
+GM can deploy only one crature per turn.
 
 Before game start, Game Master revice some BCP and MCP (amount depends on scenario)
 for deploy some creatures (which one can be deployed is defined by scenario).
@@ -237,7 +242,19 @@ Searching:
 	If there is only 3 sets of serchable object type, then devide result of secnd roll by 2 and round up result.
 	If there is onlu 1 set, then first dice roll is skipped.
 
--opening doors
+Opening doors:
+    Standatd Doors:
+        Opening is perfomed automatically when any player or any creature is in front of them.
+        Opening takes 1 turn.
+    Door with lock, Advanced lock or Seurity lock:
+        Using lock mechanism require succesful hacking, having security card(Seurity lock)
+        or other action(could depends on Scenario).
+        Using lock mechanism takes takes 2AP.
+        Opening takes 1 turn.
+        Once unlocked, they can be opened by any creature.
+
+
+
 -acquireing Pipe(weapon)
 
 
