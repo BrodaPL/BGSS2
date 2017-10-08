@@ -1,6 +1,16 @@
 ARMORS PASTE
 
 
+font: BankGothic Lt BT
+Title: bold, underline, size 24
+Resistances:
+    "Resistance:" bold, size 24
+    rest: bold, size 22
+Requires, Modifiers, Research, Modification 1 and 2:   bold, size 14
+Modification Box: bold, size 20-24(depends)
+
+
+
 
 
 
