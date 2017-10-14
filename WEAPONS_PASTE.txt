@@ -1,5 +1,14 @@
 WEAPONS_PASTE
 
+
+font: BankGothic Lt BT
+Title: bold, underline, size 24
+Main data and fire modes: bold, size 18
+Rest info: bold, size 14
+Modification Box: bold, size 20-24(depends)
+
+
+
 WEAPONS
 
 ---------------------------------------
@@ -177,8 +186,8 @@ Advanced Psionic Amplifier
 	Normal casting: 3AP
 	Amplified casting: Psionic Ability +1, Energy cost 1.
 	
-	Modification 1: Capacity +4 - Require skill 2, Nanite 2, Diffiulty 5
-	Modification 2: Amplified casting Psi cost reduced by 1 - Require skill 3, Nanite 5, Diffiulty 7
+	Modification 1: Capacity +4 - Require skill 2, Nanites 2, Difficulty 5
+	Modification 2: Amplified casting Psi cost reduced by 1 - Require skill 3, Nanites 5, Difficulty 7
 	
 
 	
@@ -203,11 +212,11 @@ Amplified casting: Psionic Ability +1, Energy cost 1.
 
 
 Modification 1: 
-Capacity +4 - Require skill 2, Nanite 2, Diffiulty 5
+Capacity +4 - Require skill 2, Nanites 2, Difficulty 5
 
 
 Modification 2: 
-Amplified casting Psi cost reduced by 1 - Require skill 3, Nanite 5, Diffiulty 7	
+Amplified casting Psi cost reduced by 1 - Require skill 3, Nanites 5, Difficulty 7	
 	
 ---------------------------------------	
 	
@@ -220,15 +229,15 @@ Talon M2A3 Pistol
 	Reload 4AP
 	Capacity 6 Bullets
 	Require: STD 1
-	Repeir: Require skill 1, Nanite 2, Diffiulty 4
+	Repeir: Require skill 1, Nanites 2, Difficulty 4
 	Research: ---
 	
 	Fire modes:
 	Semi: 1 shot, 2AP.
 	Triple: 3 shots, Range 2, 3AP.
 	
-	Modification 1: Capacity +4 - Require skill 1, Nanite 3, Diffiulty 3
-	Modification 2: DMG +1 - Require skill 2, Nanite 4, Diffiulty 5
+	Modification 1: Capacity +4 - Require skill 1, Nanites 3, Difficulty 3
+	Modification 2: DMG +1 - Require skill 2, Nanites 4, Difficulty 5
 	
 	
 	
@@ -238,7 +247,7 @@ Reload: 4AP
 Capacity: 6(10) Bullets
 Require: STD 1
 Repeir: 	  Require skill 1,
-		 Nanite 2, Diffiulty 4
+		 Nanites 2, Difficulty 4
 Research: ---
 
 
@@ -253,11 +262,11 @@ Triple: 3 shots, Range 2, 3AP.
 
 Modification 1: 
 Capacity +4
-Require skill 1, Nanite 3, Diffiulty 3
+Require skill 1, Nanites 3, Difficulty 3
 
 Modification 2:
 DMG +1
-Require skill 2, Nanite 4, Diffiulty 5	
+Require skill 2, Nanites 4, Difficulty 5	
 	
 	
 	
@@ -277,44 +286,43 @@ Shotgun
 	Reload 5AP
 	Capacity 4 Shells
 	Require: STD 2, STR 1
-	Repeir: Require skill 2, Nanite 2, Diffiulty 5
+	Repeir: Require skill 2, Nanites 2, Difficulty 5
 	Research: ---
 	
 	Fire modes:
 	Semi: 1 shot, 3AP.
 	Double: 2 shots, 4AP.
 	
-	Modification 1: Capacity +2 - Require skill 1, Nanite 3, Diffiulty 4
-	Modification 2: DMG +1 - Require skill 2, Nanite 4, Diffiulty 6
+	Modification 1: Capacity +2 - Require skill 1, Nanites 3, Difficulty 4
+	Modification 2: DMG +1 - Require skill 2, Nanites 4, Difficulty 6
 	
 	
 	
-Damage: 3x  2(3)Standard
+Damage:
+	3x 2(3) Standard
 Range: 3
 Reload: 5AP
 Capacity: 4(6) Shells
-Require: STD 2, STR 1
-Repeir: 	  Require skill 2,
-		 Nanite 2, Diffiulty 5
-Research: ---
-
-
-
 
 Fire modes:
 Semi: 1 shot, 3AP.
 Double: 2 shots, 4AP.
-	
 
 
 
-Modification 1: 
+Require: STD 2, STR 1
+Repeir: Require skill 2, Nanites 2,
+	Difficulty 5
+Research: ---
+
+
+Modification 1:
 Capacity +2
-Require skill 1, Nanite 3, Diffiulty 4
+Require skill 1, Nanites 3, Difficulty 4
 
 Modification 2:
 DMG +1
-Require skill 2, Nanite 4, Diffiulty 6		
+Require skill 2, Nanites 4, Difficulty 6
 	
 	
 	
@@ -330,7 +338,7 @@ M-22 Assault Rifle
 	Reload 4AP
 	Capacity 8 Bullets
 	Require: STD 3, STR 1
-	Repeir: Require skill 3, Nanite 2, Diffiulty 6
+	Repeir: Require skill 3, Nanites 2, Difficulty 6
 	Research: ---
 	
 	Fire modes:
@@ -338,8 +346,8 @@ M-22 Assault Rifle
 	Brust: 3 shots, Range 3, 3AP.
 	Auto: 6 shots, Range 2, 4AP
 	
-	Modification 1: Capacity +8 - Require skill 2, Nanite 4, Diffiulty 5
-	Modification 2: DMG +1 - Require skill 3, Nanite 5, Diffiulty 8
+	Modification 1: Capacity +8 - Require skill 2, Nanites 4, Difficulty 5
+	Modification 2: DMG +1 - Require skill 3, Nanites 5, Difficulty 8
 
 
 	
@@ -349,7 +357,7 @@ Reload: 4AP
 Capacity: 8(16) Bullets
 Require: STD 3, STR 1
 Repeir: 	  Require skill 3,
-		 Nanite 2, Diffiulty 6
+		 Nanites 2, Difficulty 6
 Research: ---
 
 
@@ -364,11 +372,11 @@ Auto: 6 shots, Range 2, 4AP.
 
 Modification 1: 
 Capacity +8.
-Require skill 2, Nanite 4, Diffiulty 5
+Require skill 2, Nanites 4, Difficulty 5
 
 Modification 2:
 DMG +1.
-Require skill 3, Nanite 5, Diffiulty 8 
+Require skill 3, Nanites 5, Difficulty 8 
 
 ----------------------------------------------------------------------
 
@@ -381,15 +389,15 @@ Apollo H4 Laser Pistol
 	Reload 4AP
 	Capacity 8 Energy
 	Require: ENR 1
-	Repeir: Require skill 1, Nanite 2, Diffiulty 5
+	Repeir: Require skill 1, Nanites 2, Difficulty 5
 	Research: ---
 	
 	Fire modes:
 	Normal: 1 shot, 2AP.
 	Overcharge: 1 shot, ammo consumption 4, DMG x3, Range 4, 3AP.
 	
-	Modification 1: Capacity +4 - Require skill 1, Nanite 3, Diffiulty 4
-	Modification 2: DMG +1 - Require skill 2, Nanite 4, Diffiulty 6
+	Modification 1: Capacity +4 - Require skill 1, Nanites 3, Difficulty 4
+	Modification 2: DMG +1 - Require skill 2, Nanites 4, Difficulty 6
 
 	
 Damage: 2(3) Energy
@@ -398,7 +406,7 @@ Reload: 4AP
 Capacity: 8(12) Energy
 Require: ENR 1
 Repeir: 	  Require skill 1,
-		 Nanite 2, Diffiulty 5
+		 Nanites 2, Difficulty 5
 Research: ---
 
 
@@ -413,11 +421,11 @@ Overcharge: 1 shot, ammo consumption 4, DMG x3, Range 4, 3AP.
 
 Modification 1: 
 Capacity +4
-Require skill 1, Nanite 3, Diffiulty 4
+Require skill 1, Nanites 3, Difficulty 4
 
 Modification 2:
 DMG +1
-Require skill 2, Nanite 4, Diffiulty 6 	
+Require skill 2, Nanites 4, Difficulty 6 	
 	
 	
 -----------------------------------------------------------	
@@ -479,15 +487,15 @@ Dual-Circuit EMP Rifle
 	Reload 4AP
 	Capacity 8 Energy
 	Require: ENR 3
-	Repeir: Require skill 3, Nanite 3, Diffiulty 7
+	Repeir: Require skill 3, Nanites 3, Difficulty 7
 	Research: ---
 	
 	Fire modes:
 	Normal: 1 shot, ammo consumption 2, 2AP.
 	Overcharge: 1 shot, ammo consumption 5, DMG x2, 3AP, AOE 1.
 	
-	Modification 1: Capacity +8 - Require skill 2, Nanite 4, Diffiulty 6
-	Modification 2: DMG +2 - Require skill 3, Nanite 5, Diffiulty 8
+	Modification 1: Capacity +8 - Require skill 2, Nanites 4, Difficulty 6
+	Modification 2: DMG +2 - Require skill 3, Nanites 5, Difficulty 8
 
 
 Damage: 5(7) Energy
@@ -496,7 +504,7 @@ Reload: 4AP
 Capacity: 8(16) Energy
 Require: ENR 3
 Repeir: 	  Require skill 3,
-		 Nanite 3, Diffiulty 7
+		 Nanites 3, Difficulty 7
 Research: ---
 
 
@@ -511,11 +519,11 @@ Overcharge: 1 shot, ammo consumption 5, DMG x2, 3AP, AOE 1.
 
 Modification 1: 
 Capacity +8
-Require skill 2, Nanite 4, Diffiulty 6
+Require skill 2, Nanites 4, Difficulty 6
 
 Modification 2:
 DMG +2
-Require skill 3, Nanite 5, Diffiulty 8	
+Require skill 3, Nanites 5, Difficulty 8	
 	
 	
 --------------------------------------------------------
@@ -531,14 +539,14 @@ TC-11 "Brick" Grenade Launcher
 	Reload 6AP
 	Capacity 2 Grenades
 	Require: HEV 1, STR 1
-	Repeir: Require skill 1, Nanite 2, Diffiulty 5
+	Repeir: Require skill 1, Nanites 2, Difficulty 5
 	Research: ---
 	
 	Fire modes:
 	Normal: 1 shot, 3AP.
 	
-	Modification 1: Capacity +2 - Require skill 1, Nanite 3, Diffiulty 4
-	Modification 2: Range +1, Reload 4AP - Require skill 2, Nanite 4, Diffiulty 6
+	Modification 1: Capacity +2 - Require skill 1, Nanites 3, Difficulty 4
+	Modification 2: Range +1, Reload 4AP - Require skill 2, Nanites 4, Difficulty 6
 
 	
 Damage: Depends on Grenade
@@ -547,7 +555,7 @@ Reload: 6(4)AP
 Capacity: 2(4) Grenades
 Require: HEV 1, STR 1
 Repeir: 	  Require skill 1,
-		 Nanite 2, Diffiulty 5
+		 Nanites 2, Difficulty 5
 Research: ---
 
 
@@ -561,11 +569,11 @@ Normal: 1 shot, 3AP.
 
 Modification 1: 
 Capacity +2
-Require skill 1, Nanite 3, Diffiulty 4
+Require skill 1, Nanites 3, Difficulty 4
 
 Modification 2:
 Range +1, Reload 4AP
-Require skill 2, Nanite 4, Diffiulty 6		
+Require skill 2, Nanites 4, Difficulty 6		
 	
 	
 	
@@ -580,15 +588,15 @@ Stasis Field Generator
 	Reload 5AP
 	Capacity 4 Prisms
 	Require: HEV 2, STR 2 
-	Repeir: Require skill 2, Nanite 2, Diffiulty 6
+	Repeir: Require skill 2, Nanites 2, Difficulty 6
 	Research: ---
 	
 	Fire modes:
 	Normal: 1 shot, 3AP, stun target for 3 turns.
 	Distruption: 1 shot, DMG 8, ammo consumption 2, 3AP
 	
-	Modification 1: Capacity +4 - Require skill 1, Nanite 4, Diffiulty 6
-	Modification 2: Stun target for 4 turns - Require skill 5, Nanite 2, Diffiulty 7
+	Modification 1: Capacity +4 - Require skill 1, Nanites 4, Difficulty 6
+	Modification 2: Stun target for 4 turns - Require skill 5, Nanites 2, Difficulty 7
 
 	
 	
@@ -598,7 +606,7 @@ Reload: 5AP
 Capacity: 4(8) Prisms
 Require: HEV 2, STR 2
 Repeir: 	  Require skill 2,
-		 Nanite 2, Diffiulty 5
+		 Nanites 2, Difficulty 5
 Research: ---
 
 
@@ -613,11 +621,11 @@ Distruption: 1 shot, DMG 8, ammo consumption 2, 4AP
 
 Modification 1: 
 Capacity +4
-Require skill 1, Nanite 4, Diffiulty 6
+Require skill 1, Nanites 4, Difficulty 6
 
 Modification 2:
 Stun target for 4 turns
-Require skill 5, Nanite 2, Diffiulty 7			
+Require skill 5, Nanites 2, Difficulty 7			
 	
 	
 	
@@ -633,15 +641,15 @@ Fusion Cannon
 	Reload 6AP
 	Capacity 8 Prisms
 	Require: HEV 3, STR 3, END 1
-	Repeir: Require skill 3, Nanite 3, Diffiulty 7
+	Repeir: Require skill 3, Nanites 3, Difficulty 7
 	Research: ---
 	
 	Fire modes:
 	Normal: 1 shot, ammo consumption 2 3AP, AOE 1.
 	Overcharge: 1 shot, DMG x2, ammo consumption 4, 4AP AOE2
 	
-	Modification 1: Capacity +4 - Require skill 2, Nanite 4, Diffiulty 6
-	Modification 2: DMG +4 - Require skill 3, Nanite 6, Diffiulty 8
+	Modification 1: Capacity +4 - Require skill 2, Nanites 4, Difficulty 6
+	Modification 2: DMG +4 - Require skill 3, Nanites 6, Difficulty 8
 
 	
 Damage: 12(16) Energy
@@ -650,7 +658,7 @@ Reload: 6AP
 Capacity: 8(12) Prisms
 Require: HEV 3, STR 3, END 1
 Repeir: 	  Require skill 3,
-		 Nanite 3, Diffiulty 7
+		 Nanites 3, Difficulty 7
 Research: ---
 
 
@@ -664,11 +672,11 @@ Overcharge: 1 shot, DMG x2, ammo consumption 4, 4AP AOE2
 
 Modification 1: 
 Capacity +4
-Require skill 2, Nanite 4, Diffiulty 6
+Require skill 2, Nanites 4, Difficulty 6
 
 Modification 2:
 DMG +4
-Require skill 3, Nanite 6, Diffiulty 8	
+Require skill 3, Nanites 6, Difficulty 8	
 	
 	
 	
@@ -731,15 +739,15 @@ Viral Proliferator
 	Reload 6AP
 	Capacity 4 Worms
 	Require: EXO 2,
-	Repeir: Require skill 2, Nanite 2, Diffiulty 5
+	Repeir: Require skill 2, Nanites 2, Difficulty 5
 	Research: Require skill 2, Chemicals, time 6.
 	
 	
 	Fire modes:
 	Normal: 1 shot, 3AP.
 	
-	Modification 1: Capacity +2 - Require skill 1, Nanite 3, Diffiulty 6
-	Modification 2: DMG +2 - Require skill 2, Nanite 4, Diffiulty 7
+	Modification 1: Capacity +2 - Require skill 1, Nanites 3, Difficulty 6
+	Modification 2: DMG +2 - Require skill 2, Nanites 4, Difficulty 7
 	
 	
 	
@@ -749,7 +757,7 @@ Reload: 6AP
 Capacity: 4(6) Worms
 Require: EXO 2
 Repeir: 	  Require skill 2,
-		 Nanite 2, Diffiulty 5
+		 Nanites 2, Difficulty 5
 Research:
 Require skill 2,
 Chemicals,
@@ -763,11 +771,11 @@ Normal: 1 shot, 3AP.
 
 Modification 1: 
 Capacity +2
-Require skill 1, Nanite 3, Diffiulty 6
+Require skill 1, Nanites 3, Difficulty 6
 
 Modification 2:
 DMG +2
-Require skill 2, Nanite 4, Diffiulty 7		
+Require skill 2, Nanites 4, Difficulty 7		
 	
 
 	
@@ -780,15 +788,15 @@ Annelid Launcher
 	Reload 4AP
 	Capacity 6 Worms
 	Require: EXO 3, STR 1, END 1
-	Repeir: Require skill 3, Nanite 3, Diffiulty 7
+	Repeir: Require skill 3, Nanites 3, Difficulty 7
 	Research: Require skill 3, Rare Chemicals, time 8.
 	
 	Fire modes:
 	Normal: 1 shot, ammo consumption 2, 3AP.
 	Flood: 1 shot, ammo consumption 3, AOE 1, 4AP.
 	
-	Modification 1: Capacity +6 - Require skill 2, Nanite 4, Diffiulty 7
-	Modification 2: DMG +3 - Require skill 3, Nanite 6, Diffiulty 9
+	Modification 1: Capacity +6 - Require skill 2, Nanites 4, Difficulty 7
+	Modification 2: DMG +3 - Require skill 3, Nanites 6, Difficulty 9
 
 
 Damage: 2x 8(12) Biological
@@ -797,7 +805,7 @@ Reload: 4AP
 Capacity: 6(12) Worms
 Require: Require: EXO 3, STR 1, END 1
 Repeir: 	  Require skill 3,
-		 Nanite 3, Diffiulty 7
+		 Nanites 3, Difficulty 7
 Research:
 Require skill 3,
 Rare Chemicals,
@@ -812,11 +820,11 @@ Flood: 1 shot, ammo consumption 3, AOE 1, 4AP.
 
 Modification 1: 
 Capacity +6
-Require skill 2, Nanite 4, Diffiulty 7
+Require skill 2, Nanites 4, Difficulty 7
 
 Modification 2:
 DMG +4
-Require skill 3, Nanite 6, Diffiulty 9
+Require skill 3, Nanites 6, Difficulty 9
 	
 	
 	
@@ -832,7 +840,7 @@ Reload: 4AP
 Capacity: 8(16) Bullets
 Require: STD 3, STR 1
 Repeir: 	  Require skill 3,
-		 Nanite 2, Diffiulty 6
+		 Nanites 2, Difficulty 6
 Research: ---
 
 
@@ -847,8 +855,8 @@ Auto: 6 shots, Range 2, 4AP.
 
 Modification 1: 
 Capacity +8.
-Require skill 2, Nanite 4, Diffiulty 5
+Require skill 2, Nanites 4, Difficulty 5
 
 Modification 2:
 DMG +1.
-Require skill 3, Nanite 5, Diffiulty 8 
+Require skill 3, Nanites 5, Difficulty 8 

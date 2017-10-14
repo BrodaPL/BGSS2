@@ -1,0 +1,64 @@
+SIZES:
+
+    Weapon Card:
+
+    Armor Card:
+
+    Implant Card:
+
+    Coins Cards:
+        15x15mm
+
+    Field on map:
+        20x20mm
+
+
+
+
+
+
+Icons list:
+
+    Damage(Red):
+        Standard
+        Energy
+        Fire
+        Psi
+        Biological
+
+
+    Resistance(Green):
+        Standard
+        Energy
+        Fire
+        Psi
+        Biological
+
+
+    Info(Blue):
+        *Damage
+        Range
+        Reload
+        Ammo Capacity
+        *Ammo type
+        *Requrements
+        Repeir
+        Skill Required
+        Difficulty
+        Nanites
+        Research
+        Time(turns)
+        Time(AP cost)
+        Moddification
+        Energy cost
+
+
+    *not mandatory
+
+
+    *Stats(Yellow):
+        Strength
+        Endurance
+        Agility
+        Cybernetic Affinity
+        Psionic Ability
