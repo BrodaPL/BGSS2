@@ -20,37 +20,37 @@ SIZES:
 Icons list:
 
     Damage(Red):
-        Standard
-        Energy
-        Fire
-        Psi
-        Biological
+        Standard    raw
+        Energy      raw
+        Fire        raw
+        Psi         raw
+        Biological  raw
 
 
     Resistance(Green):
-        Standard
-        Energy
-        Fire
-        Psi
-        Biological
+        Standard    raw
+        Energy      raw
+        Fire        raw
+        Psi         raw
+        Biological  raw
 
 
     Info(Blue):
         *Damage
-        Range
-        Reload
-        Ammo Capacity
-        *Ammo type
-        *Requrements
-        Repeir
-        Skill Required
-        Difficulty
-        Nanites
-        Research
-        Time(turns)
-        Time(AP cost)
-        Moddification
-        Energy cost
+        Range       raw
+        Reload      raw
+        Ammo Capacity   raw
+        *Ammo type  raw
+        *Requrements    raw
+        Repeir      raw
+        Skill Required      just "Lv." in cricle
+        Difficulty  raw
+        Nanites     cut from game
+        Research    raw
+        Time(turns)     raw
+        Time(AP cost)   raw
+        Moddification   raw
+        Energy cost     raw
 
 
     *not mandatory
