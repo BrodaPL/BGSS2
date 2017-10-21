@@ -252,6 +252,7 @@ Opening doors:
         Using lock mechanism takes takes 2AP.
         Opening takes 1 turn.
         Once unlocked, they can be opened by any creature.
+    Once opened, doors are removed from map.
 
 
 

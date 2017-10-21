@@ -7,7 +7,9 @@ Advanced Mechanics:
 -sneaking
 -throwing grenades
 -blocking doors by players
-
+-doors are closed automaticaly
+-players can close doors
+-doors can be destroyed
 
 
 
