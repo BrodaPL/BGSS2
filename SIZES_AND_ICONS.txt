@@ -20,37 +20,37 @@ SIZES:
 Icons list:
 
     Damage(Red):
-        Standard    raw
-        Energy      raw
-        Fire        raw
-        Psi         raw
-        Biological  raw
+        Standard    raw alpha beta
+        Energy      raw alpha beta
+        Fire        raw alpha beta
+        Psi         raw alpha beta
+        Biological  raw alpha beta
 
 
     Resistance(Green):
-        Standard    raw
-        Energy      raw
-        Fire        raw
-        Psi         raw
-        Biological  raw
+        Standard    raw alpha beta
+        Energy      raw alpha beta
+        Fire        raw alpha beta
+        Psi         raw alpha beta
+        Biological  raw alpha beta
 
 
     Info(Blue):
         *Damage
-        Range       raw
-        Reload      raw
-        Ammo Capacity   raw
-        *Ammo type  raw
-        *Requrements    raw
-        Repeir      raw
-        Skill Required      just "Lv." in cricle
-        Difficulty  raw
-        Nanites     cut from game
-        Research    raw
-        Time(turns)     raw
-        Time(AP cost)   raw
-        Moddification   raw
-        Energy cost     raw
+        Range       raw alpha beta
+        Reload      raw alpha beta
+        Ammo Capacity   raw alpha beta
+        *Ammo type  raw alpha beta
+        *Requrements    raw alpha beta
+        Repeir      raw alpha beta
+        Skill Required      raw alpha beta
+        Difficulty  raw alpha beta
+        Nanites     raw alpha beta
+        Research    raw alpha beta
+        Time(turns)     raw alpha beta
+        Time(AP cost)   raw alpha beta
+        Moddification   raw alpha beta
+        Energy cost     raw alpha beta
 
 
     *not mandatory
