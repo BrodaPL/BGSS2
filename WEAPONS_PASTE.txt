@@ -9,6 +9,17 @@ Modification Box: bold, size 20-24(depends)
 
 
 
+*************
+NEW:
+*************
+font: BankGothic Lt BT
+Title: underline, size 128
+Main data and fire modes: bold, size 96
+Rest info: bold, size 14
+Modification Box: bold, size 20-24(depends)
+**************
+
+
 WEAPONS
 
 ---------------------------------------

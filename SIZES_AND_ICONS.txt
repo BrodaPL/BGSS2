@@ -20,37 +20,37 @@ SIZES:
 Icons list:
 
     Damage(Red):
-        Standard    raw alpha beta
-        Energy      raw alpha beta
-        Fire        raw alpha beta
-        Psi         raw alpha beta
-        Biological  raw alpha beta
+        Standard    raw alpha beta  OK
+        Energy      raw alpha beta  OK
+        Fire        raw alpha beta  OK
+        Psi         raw alpha beta  OK
+        Biological  raw alpha beta  OK
 
 
     Resistance(Green):
-        Standard    raw alpha beta
-        Energy      raw alpha beta
-        Fire        raw alpha beta
-        Psi         raw alpha beta
-        Biological  raw alpha beta
+        Standard    raw alpha beta  OK
+        Energy      raw alpha beta  OK
+        Fire        raw alpha beta  OK
+        Psi         raw alpha beta  OK
+        Biological  raw alpha beta  OK
 
 
     Info(Blue):
         *Damage
-        Range       raw alpha beta
-        Reload      raw alpha beta
-        Ammo Capacity   raw alpha beta
-        *Ammo type  raw alpha beta
-        *Requrements    raw alpha beta
-        Repeir      raw alpha beta
-        Skill Required      raw alpha beta
-        Difficulty  raw alpha beta
-        Nanites     raw alpha beta
-        Research    raw alpha beta
-        Time(turns)     raw alpha beta
-        Time(AP cost)   raw alpha beta
-        Moddification   raw alpha beta
-        Energy cost     raw alpha beta
+        Range       raw alpha beta  OK
+        Reload      raw alpha beta  OK
+        Ammo Capacity   raw alpha beta  OK
+        *Ammo type  raw alpha beta  OK
+        *Requrements    raw alpha beta  OK
+        Repeir      raw alpha beta  OK
+        Skill Required      raw alpha beta  OK
+        Difficulty  raw alpha beta  OK
+        Nanites     raw alpha beta  OK
+        Research    raw alpha beta  OK
+        Time(turns)     raw alpha beta  OK
+        Time(AP cost)   raw alpha beta  OK
+        Moddification   raw alpha beta  OK
+        Energy cost     raw alpha beta  OK
 
 
     *not mandatory
