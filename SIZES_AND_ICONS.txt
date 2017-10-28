@@ -51,6 +51,7 @@ Icons list:
         Time(AP cost)   raw alpha beta  OK
         Moddification   raw alpha beta  OK
         Energy cost     raw alpha beta  OK
+        Weight/size raw beta OK
 
 
     *not mandatory
