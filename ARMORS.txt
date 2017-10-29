@@ -8,8 +8,8 @@ Light Armor
 	Fire: 0
 	
 	Require: STR 1
-	Modification 1: Fire +1 - Require skill 1, Nanite 4, Diffiulty 5
-	Modification 2: Energy +1 - Require skill 2, Nanite 6, Diffiulty 6
+	Modification 1: Fire +1 - Require skill 1, Nanite 3, Diffiulty 5
+	Modification 2: Energy +1 - Require skill 2, Nanite 4, Diffiulty 6
 
 
 Medium Armor
