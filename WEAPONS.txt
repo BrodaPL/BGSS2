@@ -85,7 +85,7 @@ Talon M2A3 Pistol
 	Modification 2: DMG +1 - Require skill 2, Nanite 4, Diffiulty 5
 
 Shotgun
-	DMG 2 x3
+	DMG 3 x2
 	Range 3
 	Reload 5AP
 	Capacity 4 Shells

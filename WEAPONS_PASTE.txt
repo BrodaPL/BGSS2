@@ -292,7 +292,7 @@ Require skill 2, Nanites 4, Difficulty 5
 	
 
 Shotgun
-	DMG 2 x3 
+	DMG 3 x2
 	Range 3
 	Reload 5AP
 	Capacity 4 Shells
@@ -310,7 +310,7 @@ Shotgun
 	
 	
 Damage:
-	3x 2(3) Standard
+	3(4) x2 Standard
 Range: 3
 Reload: 5AP
 Capacity: 4(6) Shells
