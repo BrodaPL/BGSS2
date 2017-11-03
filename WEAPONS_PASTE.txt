@@ -636,7 +636,7 @@ Require skill 1, Nanites 4, Difficulty 6
 
 Modification 2:
 Stun target for 4 turns
-Require skill 5, Nanites 2, Difficulty 7			
+Require skill 5, Nanites 3, Difficulty 7
 	
 	
 	
@@ -677,7 +677,7 @@ Research: ---
 
 Fire modes:
 Normal: 1 shot, ammo consumption 2 3AP, AOE 1.
-Overcharge: 1 shot, DMG x2, ammo consumption 4, 4AP AOE2
+Overcharge: 1 shot, DMG x2, ammo consumption 5, 4AP AOE2
 	
 
 
