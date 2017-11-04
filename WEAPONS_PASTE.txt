@@ -127,7 +127,7 @@ Modification 2: ---
 	
 	
 Psionic Amplifier	
-	Can be used for casting psionics abilities.
+	Allows for casting psionics abilities.
 	Range -
 	Reload -
 	Capacity -
@@ -187,8 +187,8 @@ Modification 2: ---
 Advanced Psionic Amplifier	
 	Can be used for casting psionics abilities.
 	Range -
-	Reload -
-	Capacity 4 Energy
+	Reload 4AP
+	Capacity 8 Energy
 	Require:  PSI 1, Psionic Tier 2.
 	Repeir: -
 	Research: ---
@@ -197,8 +197,8 @@ Advanced Psionic Amplifier
 	Normal casting: 3AP
 	Amplified casting: Psionic Ability +1, Energy cost 1.
 	
-	Modification 1: Capacity +4 - Require skill 2, Nanites 2, Difficulty 5
-	Modification 2: Amplified casting Psi cost reduced by 1 - Require skill 3, Nanites 5, Difficulty 7
+//	Modification 1: Capacity +4 - Require skill 2, Nanites 2, Difficulty 5
+//	Modification 2: Amplified casting Psi cost reduced by 1 - Require skill 3, Nanites 5, Difficulty 7
 	
 
 	
@@ -206,8 +206,8 @@ Advanced Psionic Amplifier
 Advanced Psionic Amplifier
 Damage: ---
 Range: ---
-Reload: ---
-Capacity: 4 Energy
+Reload: 4AP
+Capacity: 8 Energy
 Require: PSI 1, Psionic Tier 2.
 Repeir: ---
 
@@ -223,11 +223,11 @@ Amplified casting: Psionic Ability +1, Energy cost 1.
 
 
 Modification 1: 
-Capacity +4 - Require skill 2, Nanites 2, Difficulty 5
+//Capacity +4 - Require skill 2, Nanites 2, Difficulty 5
 
 
 Modification 2: 
-Amplified casting Psi cost reduced by 1 - Require skill 3, Nanites 5, Difficulty 7	
+//Amplified casting Psi cost reduced by 1 - Require skill 3, Nanites 5, Difficulty 7
 	
 ---------------------------------------	
 	
