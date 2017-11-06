@@ -119,12 +119,12 @@ AMMO
 	Description: -
 	Nanites cost: 8
 	
-	Explosive grenade
+	Frag grenade
 	Description: Impact DMG 8, AOE 2 DMG 8
 	Damage type: Standard
 	Nanites cost: 8
 
-	Energy grenade
+	EMP grenade
 	Description: Impact DMG 14, AOE 1 DMG 6
 	Damage type: Energy
 	Nanites cost: 9
@@ -136,7 +136,7 @@ AMMO
 	
 	Fusion grenade
 	Description: Impact DMG 12, AOE 1 DMG 12
-	Damage type: Pearcing
+	Damage type: Standard
 	Nanites cost: 14
 	
 	Worms
