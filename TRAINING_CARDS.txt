@@ -22,8 +22,8 @@ Year Three:
 	
 Bonus: 6CM for unrestricted use.
 Starting Equipment: Med Hypo x1, 5N
+(Total :	15-18 CM)
 
-	
 	
 Navy:
 Year One:
@@ -46,7 +46,7 @@ Year Three:
 	
 Bonus: 6CM for unrestricted use.
 Starting Equipment:Talon M2A3 .45 Caliber Pistol, Bullets x6, Med Hypo x1, 20N
-	
+(Total :	14-17 CM)
 	
 	
 O.S.A.:
@@ -67,3 +67,5 @@ Year Three:
 	
 Bonus: 2CM for unrestricted use.
 Starting Equipment:Psionic Amplifier, Med Hypo x1, Psi Hypo x1, 10N
+(Total :	19-23 CM)
+
