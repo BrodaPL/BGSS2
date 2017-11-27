@@ -17,13 +17,13 @@ CYBER MODULES PER TASK COMPLETION:
 			Difficulty:
 			Easy	Medium	Hard	Impossible
 
-Amount		1   25  |   20  |   15  |   12
+Amount		1   25  |   20  |   18  |   15
 of	          ------+-------+-------+---------
-players:	2   12  |   10  |    8  |    6
+players:	2   12  |   10  |    9  |    8
 	          ------+-------+-------+---------
-		    3    8  |    7  |    5  |    4
+		    3    8  |    7  |    6  |    5
               ------+-------+-------+---------
-		    4    6  |    5  |    4  |    3
+		    4    7  |    6  |    5  |    4
 
 
 NANITES MODIFIERS:
