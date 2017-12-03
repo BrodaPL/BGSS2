@@ -309,17 +309,17 @@ Secure Millitary container:
 	6: Standard Armor, Shell x6, Random Grenade, Prisms x2
 	Always: Bullet x4, Shell x2
 
-Advanced Secoure container 1:
+Advanced Secure container 1:
 
-Advanced Secoure container 2:
+Advanced Secure container 2:
 
-Advanced Secoure container 3:
+Advanced Secure container 3:
 
-Advanced Secoure container 4:
+Advanced Secure container 4:
 
-Advanced Secoure container 5:
+Advanced Secure container 5:
 
-Advanced Secoure container 6:
+Advanced Secure container 6:
 
 Advanced Secure Medical container:
 	1: MedHypo

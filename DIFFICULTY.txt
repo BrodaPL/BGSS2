@@ -13,6 +13,7 @@ players:	2   10  |    8  |    8  |    5
 		    4    5  |    3  |    3  |    0
 
 
+
 CYBER MODULES PER TASK COMPLETION:
 			Difficulty:
 			Easy	Medium	Hard	Impossible
@@ -21,10 +22,15 @@ Amount		1   25  |   20  |   18  |   15
 of	          ------+-------+-------+---------
 players:	2   12  |   10  |    9  |    8
 	          ------+-------+-------+---------
-		    3    8  |    7  |    6  |    5
+		    3    9  |    8  |    7  |    6
               ------+-------+-------+---------
-		    4    7  |    6  |    5  |    4
+		    4    8  |    7  |    6  |    5
 
+
+
+
+/* I think it's unnecessary modifier, because amount of searchable objects is already
+   difficulty dependent */
 
 NANITES MODIFIERS:
 			Difficulty:
@@ -37,6 +43,8 @@ players:	2   x2  |  x1.5 |   x1  |   x1
 		    3  x1.5 |   x1  |   x1  |  x0.5
               ------+-------+-------+---------
 		    4  x1.5 |   x1  |  x0.5 |  x0.5
+
+
 
 
 GAME MASTER AMOUNT OF BONUS CREATURE MOVEMENTS DURING SECURITY ALARM:
