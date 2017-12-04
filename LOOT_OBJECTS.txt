@@ -1,4 +1,4 @@
-SERCHABLE OBJECTS
+LOOT OBJECTS
 Player can make 1 search action on objecs which are listed below.
 Search action takes 1 turn.
 Roll D6 dice to determine which items you found.
