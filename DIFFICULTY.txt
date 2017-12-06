@@ -1,59 +1,110 @@
 DIFFICULTY
 
-STARTING CYBER MODULES BONUS:
-			Difficulty:
-			Easy	Medium	Hard	Impossible
 
-Amount		1   20  |   15  |   15  |   10
-of	          ------+-------+-------+---------
-players:	2   10  |    8  |    8  |    5
-	          ------+-------+-------+---------
-		    3    8  |    5  |    5  |    3
-              ------+-------+-------+---------
-		    4    5  |    3  |    3  |    0
+BASIC MODIFIERS:
 
 
+    CYBER MODULES PER TASK COMPLETION:
 
-CYBER MODULES PER TASK COMPLETION:
-			Difficulty:
-			Easy	Medium	Hard	Impossible
+                    Difficulty:
+                    Easy    Medium    Hard    Impossible
 
-Amount		1   25  |   20  |   18  |   15
-of	          ------+-------+-------+---------
-players:	2   12  |   10  |    9  |    8
-	          ------+-------+-------+---------
-		    3    9  |    8  |    7  |    6
-              ------+-------+-------+---------
-		    4    8  |    7  |    6  |    5
+        Amount      1   25  |   20  |   18  |   15
+        of            ------+-------+-------+---------
+        players:    2   12  |   10  |    9  |    8
+                      ------+-------+-------+---------
+                    3    9  |    8  |    7  |    6
+                      ------+-------+-------+---------
+                    4    8  |    7  |    6  |    5
 
 
 
+    GAME MASTER BONUS CREATURE MOVEMENTS DURING SECURITY ALARM:
 
-/* I think it's unnecessary modifier, because amount of searchable objects is already
-   difficulty dependent */
-
-NANITES MODIFIERS:
-			Difficulty:
-			Easy	Medium	Hard	Impossible
-
-Amount		1   x2  |   x2  |  x1.5 |   x1
-of	          ------+-------+-------+---------
-players:	2   x2  |  x1.5 |   x1  |   x1
-	          ------+-------+-------+---------
-		    3  x1.5 |   x1  |   x1  |  x0.5
-              ------+-------+-------+---------
-		    4  x1.5 |   x1  |  x0.5 |  x0.5
+        Difficulty:
+        Easy        +1
+        Medium      +1
+        Hard        +2
+        Impossible  +2
 
 
 
 
-GAME MASTER AMOUNT OF BONUS CREATURE MOVEMENTS DURING SECURITY ALARM:
 
-Difficulty:
-Easy        +1
-Medium      +1
-Hard        +2
-Impossible  +2
+
+
+
+
+
+OPTIONAL MODIFIERS:
+
+    STARTING CYBER MODULES BONUS:
+
+                    Difficulty:
+                    Easy    Medium    Hard    Impossible
+
+        Amount      1   20  |   15  |   15  |   10
+        of            ------+-------+-------+---------
+        players:    2   10  |    8  |    8  |    5
+                      ------+-------+-------+---------
+                    3    8  |    5  |    5  |    3
+                      ------+-------+-------+---------
+                    4    5  |    3  |    3  |    0
+
+
+
+
+    NANITES MODIFIERS:
+    /* I think it's unnecessary modifier, because amount of searchable objects is already
+       difficulty dependent */
+
+                    Difficulty:
+                    Easy    Medium    Hard    Impossible
+
+        Amount      1   x2  |   x2  |  x1.5 |   x1
+        of            ------+-------+-------+---------
+        players:    2   x2  |  x1.5 |   x1  |   x1
+                      ------+-------+-------+---------
+                    3  x1.5 |   x1  |   x1  |  x0.5
+                      ------+-------+-------+---------
+                    4  x1.5 |   x1  |  x0.5 |  x0.5
+
+
+
+
+
+
+
+OTHER TABLES:
+
+
+    APPROXIMATED LOOT OBJECTS AMOUNT IN SCENARIO:
+    
+    This table is helpful for making new scenarious.
+
+        Difficulty   |  % of total loot objects spots
+        Easy                90%
+        Medium              80%
+        Hard                70%
+        Impossible          60%
+
+        Example:
+        Total amount of loot objects spots in scenario: 32.
+
+        Amount of random loot objects depending on difficulty:
+        Difficulty   |  Approximated amount of loot objects
+        Easy                    ~27
+        Medium                  ~24
+        Hard                    ~21
+        Impossible              ~18
+
+
+
+
+
+
+
+
 
 
 
