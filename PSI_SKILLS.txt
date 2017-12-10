@@ -9,13 +9,13 @@ Skill cost 2CM
 Usage cost: 1PP
 Avaiable skills:
 	Projected Cryokinesis
-		DMG 1, Range 1, DMG type Standard.
+		DMG 1, Range 1, DMG type PSI.
 		+1DMG and +1 Accuracy per PSI.
 	Psycho-Reflective Screen
 		Provide 1 STD DMG reduction.
 		Duration 1 turns +2 per PSI.
 	Thermal-Reflective Screen
-		Provide 3 Fire DMG reduction.
+		Provide 2 Fire DMG reduction.
 		Duration 1 turns +2 per PSI.
 	Psychogenic Agility
 		Increase Agility by 1.
@@ -34,7 +34,7 @@ Skill cost 3CM
 Usage cost: 2PP
 Avaiable skills:
 	Cerebro-Stimulated Regeneration
-		Heal 1HP per PSI. Usage Cost equals to PSI.
+		Heals 1HP. Heals additional 1 HP per PSI. Usage cost 4 PP.
 	Electron Cascade
 		Recharge item by 1 energy point.
 		+1 additional energy point per PSI.
@@ -61,7 +61,7 @@ Avaiable skills:
 		Duration 1 turns +1 per PSI.
 	Imposed Neural Restructuring
 		Targeted (non-robotic) creature becomes hostile towards all non-humans. Any human damaging it ends the effect.
-		Duration 2 turns +1 per PSI.
+		Duration 1 turns +1 per PSI.
 	Psycho-Reflective Aura
 		Provide 3 STD DMG reduction.
 		Duration 1 turns +1 per PSI.
@@ -70,18 +70,22 @@ Avaiable skills:
 		Duration 2 turns +1 per PSI.
 	Metacreative Barrier
 		Creates a wall of psionic force  directly in front of you, that lasts until it is destroyed.
-		Wall durability 10 + 10 per PSI. Wall is 2 squares long.
-		
-	*Immediate Psionic Shock
+		Wall durability 5 + 5 per PSI. Wall is 2 squares long.
+	Immediate Psionic Shock
 		DMG 2, Accuracy 100%, -1DMG per 1 distance, DMG type Psi.
 		+2DMG per PSI.
+
+
+
+/*
 	OR
-	*Instantaneous Quantum Relocation
-		The first use of this power sets a “teleport marker”.
-		The second relocation use teleports you to it, and deletes the marker.
-		1 teleport marker per PSI. Means if you have 3 PSI, you can teleport 3 people at one.
-		They need to be close to you and it will cost 3 times more. 
-	
+    	*Instantaneous Quantum Relocation
+    		The first use of this power sets a “teleport marker”.
+    		The second relocation use teleports you to it, and deletes the marker.
+    		1 teleport marker per PSI. Means if you have 3 PSI, you can teleport 3 people at one.
+    		They need to be close to you and it will cost 3 times more.
+
+*/
 
 
 COSTS:
