@@ -6,11 +6,16 @@ SIZES:
 
     Implant Card:
 
+    Enemy Cards:
+        Small   15x25 mm
+        Medium  15x30 mm
+        Big     20x35 mm
+
     Coins Cards:
-        15x15mm
+        15x15 mm
 
     Field on map:
-        20x20mm
+        20x20 mm
 
 
 
