@@ -56,7 +56,7 @@ Hybrid Melee
 	AP: 4
 	Range:  -
 	Weapon: Metal pipe / Wrench;
-	Resistances:  Std: 0, Ene: 2, Fire: -1, Psi: 0, Bio: 0
+	Resistances:  Std: 0, Ene: 3, Fire: -1, Psi: 0, Bio: 0
 	Drop:  1:- 2:- 3:- 4:1N 5:2N 6:3N
 	Always drop: Metal pipe / Wrench
 	Creature points cost: Mechanical: - Biological: 4
@@ -66,7 +66,7 @@ Hybrid pistol
 	AP: 3
 	Range: 4
 	Weapon: Talon M2A3 Pistol;
-	Resistances:  Std: 0, Ene: 2, Fire: -1, Psi: 0, Bio: 0
+	Resistances:  Std: 0, Ene: 3, Fire: -1, Psi: 0, Bio: 0
 	Drop:  1:- 2:Bullet x1 3:Bullet x2 4:3N 5:5N 6:Med Hypo
 	Always drop: Broken Pistol
 	Creature points cost: Mechanical: - Biological: 6
@@ -76,7 +76,7 @@ Hybrid shotgun
 	AP: 3
 	Range: 3
 	Weapon: Shotgun;
-	Resistances:  Std: 0, Ene: 2, Fire: -1, Psi: 0, Bio: 0
+	Resistances:  Std: 0, Ene: 3, Fire: -1, Psi: 0, Bio: 0
 	Drop:  1:- 2:Shell x1 3:Shell x2 4:3N 5:5N 6:Med Hypo
 	Always drop: Broken shotgun
 	Creature points cost: Mechanical: - Biological: 8
@@ -86,7 +86,7 @@ Hybrid grenade
 	AP: 3
 	Range: 2
 	Weapon: Random grenade AP 3;
-	Resistances:  Std: 0, Ene: 2, Fire: -1, Psi: 0, Bio: 0
+	Resistances:  Std: 0, Ene: 3, Fire: -1, Psi: 0, Bio: 0
 	Drop:  1:- 2:- 3:2N 4:3N 5:5N 6:Med Hypo
 	Always drop: Random grenade
 	Creature points cost: Mechanical: 2 Biological: 10
@@ -129,7 +129,7 @@ Rumbler
 	AP: 4
 	Range: -
 	Weapon: Smash: DMG 9 Std AP 2; Power smash DMG 15 AP4 Accouracy -1;
-	Resistances:  Std: 1, Ene: 3, Fire: -1, Psi: 0, Bio: 0
+	Resistances:  Std: 1, Ene: 4, Fire: -1, Psi: 0, Bio: 0
 	Drop:  1:- 2:- 3:- 4:- 5:- 6:-
 	Always drop:  Annelid healing organ
 	Creature points cost: Mechanical: - Biological: 25
@@ -140,7 +140,7 @@ Psi Monkey
 	AP: 4
 	Range: 3
 	Weapon: Projected Cryokinesis: DMG 3 Psi AP 3;
-	Resistances:  Std: 0, Ene: 1, Fire: -1, Psi: -1, Bio: 0
+	Resistances:  Std: 0, Ene: 2, Fire: -1, Psi: -1, Bio: 0
 	Drop:  1:- 2:- 3:- 4:- 5:- 6:-
 	Always drop:  -
 	Creature points cost: Mechanical: - Biological: 3
@@ -151,7 +151,7 @@ Red Pis Monkey
 	AP: 4
 	Range: 4
 	Weapon: Projected Pyrokinesis: DMG 6 Fire AP 3;
-	Resistances:  Std: 0, Ene: 1, Fire: -1, Psi: -1, Bio: 0
+	Resistances:  Std: 0, Ene: 2, Fire: -1, Psi: -1, Bio: 0
 	Drop:  1:- 2:- 3:- 4:- 5:- 6:Annelid psionic organ
 	Always drop:  -
 	Creature points cost: Mechanical: - Biological: 5
@@ -202,7 +202,7 @@ Cybernetic Midwife
 	AP: 3
 	Range: 5
 	Weapon: Laser Pistol (built-in) Overcharge;
-	Resistances:  Std: 2, Ene: 0, Fire: 1, Psi: 2, Bio: 2
+	Resistances:  Std: 2, Ene: 0, Fire: 2, Psi: 2, Bio: 2
 	Drop:  1:- 2:- 3:3N 4:3N 5:5N 6:Battery
 	Always drop:  -
 	Creature points cost: Mechanical: 4 Biological: 4
@@ -214,7 +214,7 @@ Cybernetic Assasin
 	AP: 5
 	Range: -
 	Weapon: Claws: DMG 5 Std AP 2; Shuriken: DMG 4 Std AP 3 Range 3;
-	Resistances:  Std: 2, Ene: 0, Fire: 2, Psi: 3, Bio: 5
+	Resistances:  Std: 2, Ene: 0, Fire: 3, Psi: 3, Bio: 5
 	Drop:  1:- 2:3N 3:3N 4:5N 5:5N 6:Random implant
 	Always drop:  -
 	Creature points cost: Mechanical: 8 Biological: 2
@@ -224,7 +224,7 @@ Red Cybernetic Assasin
 	AP: 6
 	Range: -
 	Weapon: Claws DMG 5 Std AP 2; Shuriken: DMG 4 Std AP 3 Range 4;
-	Resistances:  Std: 3, Ene: 0, Fire: 3, Psi: 3, Bio: 6
+	Resistances:  Std: 3, Ene: 0, Fire: 4, Psi: 3, Bio: 6
 	Drop:  1:- 2:3N 3:3N 4:5N 5:5N 6:Random implant
 	Always drop:  -
 	Creature points cost: Mechanical: 12 Biological: 4
@@ -234,7 +234,7 @@ Protocol Droid
 	AP: 2
 	Range: -
 	Weapon: Self destruction: DMG 10 Std AP 1 Range: - AOE1;
-	Resistances:  Std: 2, Ene: -1, Fire: 10, Psi: 4, Bio: -
+	Resistances:  Std: 2, Ene: -1, Fire: 10, Psi: 4, Bio: Immune
 	Drop:  1:- 2:- 3:- 4:- 5:1N 6:2N
 	Always drop:  -
 	Creature points cost: Mechanical: 3 Biological: -
@@ -244,7 +244,7 @@ Maintance Robot
 	AP: 2
 	Range: 4
 	Weapon: Electrical spark welder(built-in): DMG 4 Ene AP 2;
-	Resistances:  Std: 3, Ene: -2, Fire: 15, Psi: 4, Bio: -
+	Resistances:  Std: 3, Ene: -2, Fire: 15, Psi: 4, Bio: Immune
 	Drop:  1:- 2:3N 3:3N 4:5N 5:5N 6:Battery
 	Always drop:  -
 	Creature points cost: Mechanical: 20 Biological: -
@@ -255,7 +255,7 @@ Security Robot
 	AP: 2
 	Range: 5
 	Weapon: Dual-Circuit EMP Rifle(built-in)
-	Resistances:  Std: 4, Ene: -2, Fire: 15,  Psi: 4, Bio: -
+	Resistances:  Std: 4, Ene: -2, Fire: 15,  Psi: 4, Bio: Immune
 	Drop:  1:- 2:3N 3:3N 4:5N 5:Battery 6:Battery, 3N
 	Always drop:  -
 	Creature points cost: Mechanical: 25 Biological: -
@@ -266,7 +266,7 @@ Assualt Robot
 	AP: 2
 	Range: 5
 	Weapon: Fusion Cannon(built-in)
-	Resistances:  Std: 5, Ene: -2, Fire: 15,  Psi: 4, Bio: -
+	Resistances:  Std: 5, Ene: -2, Fire: 15,  Psi: 4, Bio: Immune
 	Drop:  1:- 2:3N 3:6N 4:6N 5:2Prism 6:2Prism, 3N
 	Always drop:  3N, 2Prism
 	Creature points cost: Mechanical: 30 Biological: -
@@ -275,9 +275,9 @@ Assualt Robot
 Security Slug Turret
 	HP: 12
 	AP: 2
-	Range: 5
+	Range: 7
 	Weapon: Assault Rifle(built-in) Brust;
-	Resistances:  Std: 4, Ene: -2, Fire: 15,  Psi: 4, Bio: -
+	Resistances:  Std: 4, Ene: -2, Fire: 15,  Psi: 4, Bio: Immune
 	Drop:  1:- 2:Bullet x1 3:Bullet x2 4:Bullet x2 5:Bullet x3 6:Bullet x3
 	Always drop:  -
 	Creature points cost: Mechanical: - Biological: -
@@ -288,9 +288,9 @@ Security Slug Turret
 Security Laser Turret
 	HP: 12
 	AP: 2
-	Range: 5
+	Range: 7
 	Weapon: Laser Pistol(built-in) Overcharge;
-	Resistances:  Std: 4, Ene: -2, Fire: 15,  Psi: 4, Bio: -
+	Resistances:  Std: 4, Ene: -2, Fire: 15,  Psi: 4, Bio: Immune
 	Drop:  1:- 2:- 3:- 4:- 5:Battery 6:Battery
 	Always drop:  -
 	Creature points cost: Mechanical: - Biological: -
@@ -302,7 +302,7 @@ Security Camera
 	HP: 1
 	AP: 2
 	Range: 6
-	Resistances:  Std: 4, Ene: -2, Fire: 15,  Psi: 4, Bio: -
+	Resistances:  Std: 4, Ene: -2, Fire: 15,  Psi: 4, Bio: Immune
 	Drop:  1:- 2:- 3:- 4:- 5:- 6:-
 	Always drop:  -
 	Creature points cost: Mechanical: - Biological: -
