@@ -1,9 +1,9 @@
 ACTION CARDS 
 
-Good 29
+Good 36
 Neutral 8
-Bad 45
-All 82
+Bad 50
+All 94
 
 
 
@@ -16,7 +16,7 @@ Increase Threat Level by 1.
 Decrease Threat Level by 1.
 
 3x G
--We can make it
+-We can make it!
 Decrease Threat Level by 2.
 
 1x G
@@ -25,69 +25,93 @@ Decrease Threat Level by 3.
 
 2x B
 -Intense Action
-Increase Threat Level by 3 for 2 turns. 
+Increase Threat Level by 3 for 4 turns.
 
 3x G
 -Silence...
 Decrease Threat level by 3 for 4 turns.
 
 6x G
--Stable situatuin
+-Stable situatuin.
 Threat level is not increasing for 4 next turns.
 
-5x N
+4x N
 -Nothing special
 Nothing special happend.
+
+2x G
+-Delacorix advice.
+Player can use this card to increase any Technical skill by 1 for 1 turn.
+Card used on Players demand
 
 x4 B
 -Click...
 Breaks weapon holded by one player. Game Master can choose which one.
+Card used on GM demand
 
-x2 B
+x3 B
 -Metacreative Barrier
 Create one 2 squares wide Metacreative Barrier(15HP) anywhere you want.
+Card used on GM demand
 
 x1 B
 -Strong Metacreative Barrier
 Create one 3 squares wide Metacreative Barrier(30HP) anywhere you want.
+Card used on GM demand
 
 x2 B
 -Fatigue of the material
 Break one element on board. It can be repaired: Require skill 1, Nanite 2, Diffiulty 5
+Cannot break quest items/devices.
+Card used on GM demand
 
 x1 B
 -Serious fatigue of the material
 Break one element on board. It can be repaired: Require skill 2, Nanite 3, Diffiulty 7
+Cannot break quest items/devices.
+Card used on GM demand
 
-x2 B
+x3 B
 -Lights off
-Turn lights off in room of you choice for 2 turns.
+Turn lights off in room of your choice for 2 turns.
+Card used on GM demand
 
 x1 B
 -Darknes
-Permanently destroys lights in room of you choice.
-
-x2 B 
--Psionic scream
-At turn when card is played, all players instantly lose 1AP.
+Permanently destroys lights in room of your choice.
+Card used on GM demand
 
 x1 B
--Alarm!
-Activate security alerm for 12 turns. Can be deactived by hacking any security station.
+-Psionic scream
+At turn when card is played, all players instantly lose 1AP.
+Card used on GM demand
+
+x1 B
+-Random psionic scream
+All instantly players instantly loses 1AP.
 
 x2 G
 -Psionic interference
 All creatures on the board(not players), has 2AP less for 2 turns.
+
+x1 B
+-Alarm!
+Activate security alarm for 12 turns. Can be deactived by hacking any security station.
+Card used on GM demand
+
+x1 B
+-Random alarm!
+This card instantly activate security alarm for 12 turns.Can be deactived by hacking any security station.
 
 x1 G
 -Good coindence
 Players can see 3 next action cards and move one to the bottom of the deck.
 
 x1 B
--Bad coindence
+-Bad coincidence
 Game Master can see 3 next action cards and move one to the bottom of the deck.
 
-x2 N
+x3 N
 -Double action
 Throw this card away, and immediately draw 2 action cards at once.
 
@@ -97,80 +121,108 @@ Throw this card away, and at next time draw 3 action cards instead of 1.
 
 x2 G
 -Chance to survie
-Remove all Game Master annelid creature points.
+Remove all Game Master Biological Creature Point (BCP).
 
 x2 G
 -Chance to survie
-Remove all Game Master mechanical creature points.
+Remove all Game Master Mechanical Creature Point (MCP).
 
 x1 G
--Chance to survie
+-Real chance to survie
 Remove ALL Game Master creature points.
 
 x3 B
 -Minor Mechanical threat
-Game Master gain 2 mechanical creature points.
+Game Master gain 2 Mechanical Creature Point (MCP).
 
 x3 B
 -Minor Annelid threat
-Game Master gain 2 annelid creature points.
+Game Master gain 2 Biological Creature Point (BCP).
 
 x2 B
 -Mechanical threat
-Game Master gain 5 mechanical creature points.
+Game Master gain 5 Mechanical Creature Point (MCP).
 
 x2 B
 -Annelid threat
-Game Master gain 5 annelid creature points.
+Game Master gain 5 Biological Creature Point (BCP).
 
 x1 B
--Greater Mechanical threat
-Game Master gain 10 mechanical creature points.
+-Serious Mechanical threat
+Game Master gain 10 Mechanical Creature Point (MCP).
 
 x1 B
--Greater Annelid threat
-Game Master gain 10 annelid creature points.
+-Serious Annelid threat
+Game Master gain 10 Biological Creature Point (BCP).
 
 x2 B
 -Not yet
 Playing this card Game Master can extend one player action for 1 turn.
-Only actions counted in turns can be extended (eg. Research, using Medical Units, opening blast dors)
+Only actions counted in turns can be extended (eg. Research, using Medical Units, opening blast doors)
 
 x2 B
 -Arachnid Egg
 Game Master can instantly place Arachnid Egg on the board.
+Card used on GM demand
 
 x1 B
 -Arachnid Eggs
 Game Master can instantly place two Arachnid eggs on the board.
+Card used on GM demand
 
 x2 B
 -Swarm Egg
 Game Master can instantly place Swarm Egg on the board.
+Card used on GM demand
 
 x1 B
 -Swarm Eggs
 Game Master can instantly place two Swarm eggs on the board.
+Card used on GM demand
 
-x1 B
+x2 B
 -Pipe hybrid
 Game Master can instantly place Pipe hybrid on the board.
+Card used on GM demand
+
+x1 B
+-Protocol Droid
+Game Master can instantly place Protocol Droid on the board.
+Card used on GM demand
 
 x1 B
 -Shotgun hybrid
 Game Master can instantly place Shotgun hybrid on the board.
+Card used on GM demand
 
 x1 B
 -Double Deploy
 If this card is played, Game Master can instantly place two creatures at once on the board.
+Card used on GM demand
 
 x2 G
 -Nope.
 When Game Master is using action card, players can play "Nope." card, to instantly discard Game Master card.
+Card used on Players demand
 
-x2 B
+x1 B
 -Security Lockdown
-Activate all turrets and decreaase Security Cameras alarm initiation time by 1 turn.
+Activates all turrets and decreases Security Cameras alarm initiation time by 1 turn.
+Card used on GM demand
 
+x1 B
+-Random Security Lockdown
+Instantly activates all turrets and decreases Security Cameras alarm initiation time by 1 turn.
 
+x1 G
+-Cyber Modules!
+All Players instantly gains Cyber Modules in amount as for completing task.
 
+x2 G
+-Some Cyber Modules!
+All Players instantly gains 2 Cyber Modules.
+
+x2 G
+-Nanites!
+All Players instantly gains 10 nanites.
+(Affected by difficulty and Palyers amount moddifiers)
