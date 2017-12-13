@@ -40,7 +40,7 @@ Cons:
 	Size: Large
 	Effect: +5HP/turn
 	Usage: 6AP
-	Duration: 5 turns
+	Duration: 4 turns
 	Nanites cost: 14
 	
 	Portable battery
