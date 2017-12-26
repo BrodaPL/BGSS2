@@ -45,7 +45,7 @@ Cons:
 	
 	Portable battery
 	Size: Small
-	Effect: Recharge 1 item to it's full energy.
+	Description: Recharge 1 item to it's full energy.
 	Usage: 6AP
 	Nanites cost: 15
 	
