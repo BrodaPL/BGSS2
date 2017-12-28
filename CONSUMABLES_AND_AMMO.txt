@@ -3,35 +3,35 @@ CONSUMABLES
 Cons:
 	Med Hypo
 	Size: Small
-	Effect: +2HP/turn
+	Effect: Heals 2HP per turn.
 	Usage: 3AP
 	Duration: 3 turns
 	Nanites cost: 6
 	
 	Psi Hypo
 	Size: Small
-	Effect: +10PP
+	Effect: Instantly regenerates 10PP
 	Usage: 3AP
 	Duration: -
 	Nanites cost: 7
 	
 	Agility Hypo
 	Size: Small
-	Effect: +1 Agility
+	Effect: Agility +1
 	Usage: 3AP
 	Duration: 6 turns
 	Nanites cost: 6
 	
 	Strength Hypo
 	Size: Small
-	Effect: +1 Strength
+	Effect: Strength +1
 	Usage: 3AP
 	Duration: 6 turns
 	Nanites cost: 6
 	
-	Psionic Ability Hypo
+	Psionic booster
 	Size: Small
-	Effect: +1 Psionic Ability
+	Effect: Psionic Ability +1
 	Usage: 3AP
 	Duration: 6 turns
 	Nanites cost: 7
@@ -51,7 +51,7 @@ Cons:
 	
 	Auto Repair Unit
 	Size: Large
-	Effect: Repairs 1 item
+	Effect: Automatically repairs 1 item.
 	Usage: 2 turns
 	Nanites cost: 20
 	
@@ -84,7 +84,7 @@ Cons:
 	
 	ICE Pick
 	Size: Small
-	Effect: Can be used for ONE instantly hack;
+	Effect: Can be used for one successful hack.
 	Usage: 2 turns
 	Duration: -
 	Nanites cost: -
