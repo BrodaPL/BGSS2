@@ -3,39 +3,59 @@ ORGANS
 Arachnid organ
 Size: Small
 Research: Require skill 2, Chemicals, time 6
-When researched every damage done to Adult Arachnids and Infant Arachnids is increased by 1.
+Description: When researched permanently increases damage done to all Arachnids by 1. Affect all team members.
 
 Healing Organ
 Size: Small
 Research: Require skill 1, Common Chemicals, time 5
-Can be consmed to restore HP.
+Description: Can be consmed to restore HP.
 
 Psi Organ
 Size: Small
 Research: Require skill 2, Chemicals, time 7
-Can be consmed to restore PP.
+Description: Can be consmed to restore PP.
 
 Hybrid Organ
 Size: Large
 Research: Require skill 1, Common Chemicals, time 4
-When researched every damage done to Hybrids is increased by 1.
+Description: When researched permanently increases damage done to all Hybrids by 1. Affect all team members.
 
 Midwife organ
 Size: Large
 Research: Require skill 2, Chemicals, time 6
-When researched every damage done to Midwifes is increased by 1.
+Description: When researched permanently increases damage done to Midwifes by 1. Affect all team members.
 
 Monkey brain
 Size: Small
 Research: Require skill 1, Common Chemicals, time 4
-When researched every damage done to Monkeys and Red Monkeys is increased by 1.
+Description: When researched permanently increases damage done to all Monkeys by 1. Affect all team members.
 
 Psi-Reaver organ
 Size: Small
-Research: Require skill 3, Rare Chemicals time 8
-When researched every damage done to Psi-Reaver and Greater Psi-Reaver is increased by 1.
+Research: Require skill 3, Rare Chemicals time 9
+Description: When researched permanently increases damage done to all Psi-Reavers by 1. Affect all team members.
 
 Rumbler organ
 Size: Large
-Research: Require skill 3, Chemicals, Common Chemicals, time 9
-When researched every damage done to Rumblers is increased by 1.
+Research: Require skill 3, Chemicals, Common Chemicals, time 8
+Description: When researched permanently increases damage done to Rumblers by 1. Affect all team members.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

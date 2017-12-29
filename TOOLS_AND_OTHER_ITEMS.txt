@@ -1,5 +1,6 @@
 TOOLS AND OTHER ITEMS
 
+
 Common chemicals
 Size: Large
 Description: Needed for some research.
@@ -11,6 +12,20 @@ Description: Needed for some research.
 Rare chemicals
 Size: Large
 Description: Needed for some research.
+
+Surgical Key
+Size: Large
+Description: Can be inserted into inactive medical unit.
+
+Recycler
+Weight: 1
+Description: Can convert every small item( 0 weight ) to 1 nanite. Every conversion takes 1 turn.
+
+
+
+
+
+SCENARIO ITEMS:
 
 Acces card
 Size: Small
@@ -26,37 +41,37 @@ Description: Can provide power supply for some machinery.
 
 Circuit Board
 Size: Large
-Description: Can be to baypass some systems.
+Description: Can be inserted into some machinery.
+
+Interpolated Simulation Chip
+Size: Small
+Description: Can be used to bypass some systems.
+
+Linear Simulation Chip
+Size: Small
+Description: Can be used to bypass some systems.
 
 Quantum Simulation Chip
 Size: Small
-Description: Can be to baypass some systems.
+Description: Can be used to bypass some systems.
 
 ToxinA
 Size: Large
 Description: Can be inserted into an environment control panel.
 
-Surgical Key
-Size: Large
-Description: Can be inserted into inactive medical unit.
-
 Sympathetic Resonator
-
-
-
 
 Acces Card A
 Weight: 0
-Description: Provides acces to security locks A.
+Description: Provides access to security locks A.
 
 Acces Card B
 Weight: 0
-Description: Provides acces to security locks B.
+Description: Provides access to security locks B.
 
 Acces Card C
 Weight: 0
-Description: Provides acces to security locks C.
-
+Description: Provides access to security locks C.
 
 Audio Log A
 Weight: 0
@@ -69,26 +84,6 @@ Description: Grants the player access to audio recordings and other essential da
 Audio Log C
 Weight: 0
 Description: Grants the player access to audio recordings and other essential data.
-
-
-
-Interpolated Simulation Chip
-
-Linear Simulation Chip
-
-Quantum Simulation Chip
-
-Common Chemicals
-
-Chemicals
-
-Rare Chemicals
-
-Circuit Board
-
-Charged Power Cell
-
-Dead Power Cell
 
 
 
