@@ -6,6 +6,10 @@ SIZES:
 
     Implant Card:
 
+    Item cards:
+    /*
+    size of picture depends on item weight: 0 500% -> 200%, 1 500% ->250%, 3, 500 ->300%
+    */
     Enemy Cards:
         Small   15x25 mm
         Medium  15x30 mm

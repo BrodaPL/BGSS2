@@ -1,16 +1,31 @@
 TOOLS AND OTHER ITEMS
 
+
 Common chemicals
 Size: Large
-Description: needed for research.
+Description: Needed for some research.
 
 Chemicals
 Size: Large
-Description: needed for research.
+Description: Needed for some research.
 
 Rare chemicals
 Size: Large
-Description: needed for research.
+Description: Needed for some research.
+
+Surgical Key
+Size: Large
+Description: Can be inserted into inactive medical unit.
+
+Recycler
+Weight: 1
+Description: Can convert every small item( 0 weight ) to 1 nanite. Every conversion takes 1 turn.
+
+
+
+
+
+SCENARIO ITEMS:
 
 Acces card
 Size: Small
@@ -24,28 +39,51 @@ Charged Power Cell
 Size: Large
 Description: Can provide power supply for some machinery.
 
-Audiolog
-Size: Small
-Description: Can cointain some useful data.
-
 Circuit Board
 Size: Large
-Description: Can be to baypass some systems.
+Description: Can be inserted into some machinery.
+
+Interpolated Simulation Chip
+Size: Small
+Description: Can be used to bypass some systems.
+
+Linear Simulation Chip
+Size: Small
+Description: Can be used to bypass some systems.
 
 Quantum Simulation Chip
 Size: Small
-Description: Can be to baypass some systems.
+Description: Can be used to bypass some systems.
 
 ToxinA
 Size: Large
 Description: Can be inserted into an environment control panel.
 
-Surgical Key
-Size: Large
-Description: Can be inserted into inactive medical unit.
-
 Sympathetic Resonator
 
+Acces Card A
+Weight: 0
+Description: Provides access to security locks A.
+
+Acces Card B
+Weight: 0
+Description: Provides access to security locks B.
+
+Acces Card C
+Weight: 0
+Description: Provides access to security locks C.
+
+Audio Log A
+Weight: 0
+Description: Grants the player access to audio recordings and other essential data.
+
+Audio Log B
+Weight: 0
+Description: Grants the player access to audio recordings and other essential data.
+
+Audio Log C
+Weight: 0
+Description: Grants the player access to audio recordings and other essential data.
 
 
 
